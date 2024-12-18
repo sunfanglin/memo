@@ -175,6 +175,19 @@ export WRF_DIR=path-to-WRF-top-level-directory/WRF
 ./configure (choose option 1)
 ./compile >& log.compile
 ```
+## Module
+```bash
+#!/bin/bash 
+module load mpi/mpich/4.1.2-gcc-11.4.0-ch4 
+module load zlib/1.3.1-gcc-11.4.0 
+module load libpng/1.6.40-gcc-11.4.0 
+module load jasper/2.0.25-gcc-11.4.0 
+module load hdf5/1.14.3-gcc-11.4.0-mpich-4.1.2-ch4 
+module load netcdf/4.9.2-gcc-11.4.0-mpich-4.1.2-ch4
+```
+```bash
+source load_gnu_compiler.sh
+```
 ## Conclusion
 Building the WRF model on a Linux machine involves several steps, including selecting a compiler, setting up the environment, installing necessary libraries, and configuring the model. With these steps, you should be able to successfully build and run the WRF model for your research or forecasting needs.
 
@@ -187,6 +200,6 @@ Building the WRF model on a Linux machine involves several steps, including sele
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NDU0NzMzNiwxMDY3MjY4Mzk0LDExND
-QyMjM5NzIsLTE3MzMwOTY1MTJdfQ==
+eyJoaXN0b3J5IjpbMTY2MjAyMjYzNSwtNTc0NTQ3MzM2LDEwNj
+cyNjgzOTQsMTE0NDIyMzk3MiwtMTczMzA5NjUxMl19
 -->
