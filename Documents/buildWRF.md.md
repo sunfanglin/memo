@@ -128,7 +128,7 @@ cd libpng-1.2.50
 make -j 4
 make install
 cd ..
-rm -rf libpng*
+rm -rf libpng*fanglin.sun@gmail.com
 ```
 ### Install jasper
 ``` bash
@@ -187,6 +187,6 @@ Building the WRF model on a Linux machine involves several steps, including sele
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NzI2ODM5NCwxMTQ0MjIzOTcyLC0xNz
-MzMDk2NTEyXX0=
+eyJoaXN0b3J5IjpbLTU3NDU0NzMzNiwxMDY3MjY4Mzk0LDExND
+QyMjM5NzIsLTE3MzMwOTY1MTJdfQ==
 -->
