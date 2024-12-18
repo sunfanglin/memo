@@ -24,7 +24,8 @@ Before you start, ensure you have the following:
 1. Go to the [WRF model website].
 2. Download the latest version of the WRF source code using `wget` or by manually downloading it to your machine. For example:
    ```bash
-   wget https://github.com/wrf-model/WRF/archive/refs/tags/v4.3.tar.gz
+   wget https://github.com/wrf-model/WRF/releases/download/v4.6.1/v4.6.1.tar.gz  
+  ```
 
 ## Selecting and Installing a Compiler
 WRF can be compiled using various compilers. The most common ones are:
@@ -185,5 +186,5 @@ Building the WRF model on a Linux machine involves several steps, including sele
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzMwOTY1MTJdfQ==
+eyJoaXN0b3J5IjpbMTE0NDIyMzk3MiwtMTczMzA5NjUxMl19
 -->
