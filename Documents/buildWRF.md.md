@@ -176,8 +176,8 @@ export WRF_DIR=path-to-WRF-top-level-directory/WRF
 ./compile >& log.compile
 ```
 ## Module
+
 ```bash
-#!/bin/bash 
 module load mpi/mpich/4.1.2-gcc-11.4.0-ch4 
 module load zlib/1.3.1-gcc-11.4.0 
 module load libpng/1.6.40-gcc-11.4.0 
@@ -200,6 +200,6 @@ Building the WRF model on a Linux machine involves several steps, including sele
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MjAyMjYzNSwtNTc0NTQ3MzM2LDEwNj
-cyNjgzOTQsMTE0NDIyMzk3MiwtMTczMzA5NjUxMl19
+eyJoaXN0b3J5IjpbLTE3NTA5Njk1OTgsLTU3NDU0NzMzNiwxMD
+Y3MjY4Mzk0LDExNDQyMjM5NzIsLTE3MzMwOTY1MTJdfQ==
 -->
