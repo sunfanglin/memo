@@ -18,8 +18,9 @@
 ---
 
 ## What is Linux?
-Linux is an open-source operating system based on Unix. 
-It is widely used for servers, desktops, and embedded systems. Linux is known for its **stability, security, and flexibility**. It is widely used for servers, desktops, and embedded systems. 
+- Linux is an open-source operating system based on Unix. 
+- It is widely used for servers, desktops, and embedded systems. 
+- Linux is known for its **stability, security, and flexibility**. 
 
 <img src="https://aquatech-esf.com/wp-content/uploads/2021/12/Linux.jpg" alt="Description" width="360" height="200">
 
@@ -33,7 +34,8 @@ It is widely used for servers, desktops, and embedded systems. Linux is known fo
 ---
 
 ## History of Linux
-Linux was born out of the desire for a free and open alternative to proprietary Unix systems. Key milestones include:
+Linux was born out of the desire for a free and open alternative to proprietary Unix systems. 
+Key milestones include:
 - **1991**: Linus Torvalds releases the first version of the Linux kernel.
 - **1994**: The first stable release of the Linux kernel (version 1.0).
 - **1996**: Introduction of the first Linux distributions.
@@ -41,7 +43,8 @@ Linux was born out of the desire for a free and open alternative to proprietary 
 ---
 
 ## Linux Distributions
-A Linux distribution (distro) is a packaged version of the Linux operating system, containing the Linux kernel, system utilities, and applications. Popular distributions include:
+A Linux distribution (distro) is a packaged version of the Linux operating system, containing the**Linux kernel, system utilities, and applications**. 
+Popular distributions include:
 - **Ubuntu**: User-friendly and widely used for desktops.
 - **Fedora**: Focuses on cutting-edge technologies.
 - **CentOS/RHEL**: Known for stability, used in enterprise environments.
@@ -194,5 +197,5 @@ This introduction covers the basics of Linux, including its history, distributio
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MzU2MTMxNywtNDM3NjU3NDE3XX0=
+eyJoaXN0b3J5IjpbLTE4NDI5NDMzOTMsLTQzNzY1NzQxN119
 -->
