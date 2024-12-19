@@ -26,10 +26,10 @@ Before you start, ensure you have the following:
    ```bash
    wget https://github.com/wrf-model/WRF/releases/download/v4.6.1/v4.6.1.tar.gz 
    wget https://github.com/wrf-model/WPS/archive/refs/tags/v4.6.0.tar.gz
-  ```
-
+   ```
 ## Selecting and Installing a Compiler
-WRF can be compiled using various compilers. The most common ones are:
+WRF can be compiled using various compilers. 
+The most common ones are:
 1. GCC (GNU Compiler Collection)
 GCC is the default compiler for many Linux distributions and is widely used for building WRF.  
 2. Intel Fortran Compiler
@@ -200,7 +200,7 @@ Building the WRF model on a Linux machine involves several steps, including sele
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NDk5NzczMywxMDEwMzE1MDAzLC0xNz
-UwOTY5NTk4LC01NzQ1NDczMzYsMTA2NzI2ODM5NCwxMTQ0MjIz
-OTcyLC0xNzMzMDk2NTEyXX0=
+eyJoaXN0b3J5IjpbLTE0ODEyMDA5NjUsLTM4NDk5NzczMywxMD
+EwMzE1MDAzLC0xNzUwOTY5NTk4LC01NzQ1NDczMzYsMTA2NzI2
+ODM5NCwxMTQ0MjIzOTcyLC0xNzMzMDk2NTEyXX0=
 -->
