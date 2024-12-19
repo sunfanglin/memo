@@ -21,7 +21,7 @@ Before you start, ensure you have the following:
 - Basic knowledge of terminal commands.
 
 ## Downloading WRF
-1. Go to the [WRF model website](https://www2.mmm.ucar.edu/wrf/users/download/get_sources_new.php), and [github.com](https://github.com/wrf-model/WRF/releases)
+1. [WRF model website](https://www2.mmm.ucar.edu/wrf/users/download/get_sources_new.php), and [github/WRF](https://github.com/wrf-model/WRF/releases)
 2. Download the latest version of the WRF source code using `wget` or by manually downloading it to your machine. For example:
    ```bash
    wget https://github.com/wrf-model/WRF/releases/download/v4.6.1/v4.6.1.tar.gz 
@@ -200,7 +200,7 @@ Building the WRF model on a Linux machine involves several steps, including sele
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjg5NzQ0MjksLTM4NDk5NzczMywxMD
-EwMzE1MDAzLC0xNzUwOTY5NTk4LC01NzQ1NDczMzYsMTA2NzI2
-ODM5NCwxMTQ0MjIzOTcyLC0xNzMzMDk2NTEyXX0=
+eyJoaXN0b3J5IjpbODA2MTkwOTQsLTM4NDk5NzczMywxMDEwMz
+E1MDAzLC0xNzUwOTY5NTk4LC01NzQ1NDczMzYsMTA2NzI2ODM5
+NCwxMTQ0MjIzOTcyLC0xNzMzMDk2NTEyXX0=
 -->
