@@ -18,7 +18,10 @@
 ---
 
 ## What is Linux?
-Linux is an open-source operating system based on Unix. It is widely used for servers, desktops, and embedded systems. Linux is known for its stability, security, and flexibility. It is widely used for servers, desktops, and embedded systems. 
+Linux is an open-source operating system based on Unix. 
+It is widely used for servers, desktops, and embedded systems. 
+Linux is known for its **stability, security, and flexibility**. I
+t is widely used for servers, desktops, and embedded systems. 
 
 <img src="https://aquatech-esf.com/wp-content/uploads/2021/12/Linux.jpg" alt="Description" width="360" height="200">
 
@@ -193,5 +196,5 @@ This introduction covers the basics of Linux, including its history, distributio
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNzY1NzQxN119
+eyJoaXN0b3J5IjpbLTE1ODkyNTczMzUsLTQzNzY1NzQxN119
 -->
