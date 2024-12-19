@@ -35,6 +35,7 @@
 
 ## History of Linux
 Linux was born out of the desire for a free and open alternative to proprietary Unix systems. 
+
 Key milestones include:
 - **1991**: Linus Torvalds releases the first version of the Linux kernel.
 - **1994**: The first stable release of the Linux kernel (version 1.0).
@@ -43,7 +44,8 @@ Key milestones include:
 ---
 
 ## Linux Distributions
-A Linux distribution (distro) is a packaged version of the Linux operating system, containing the**Linux kernel, system utilities, and applications**. 
+A Linux distribution (distro) is a packaged version of the Linux operating system, containing the**Linux kernel, system utilities, and applications**.   
+
 Popular distributions include:
 - **Ubuntu**: User-friendly and widely used for desktops.
 - **Fedora**: Focuses on cutting-edge technologies.
@@ -54,12 +56,15 @@ Popular distributions include:
 
 ---
 ## Linux on Windows
-With the advent of tools like Windows Subsystem for Linux (WSL), users can run a Linux environment directly on Windows without the need for dual-booting or using a virtual machine. WSL allows users to run native Linux command-line tools alongside their Windows applications, providing an integrated experience. 
+- Windows Subsystem for Linux (WSL), users can run a Linux environment directly on Windows without the need for dual-booting or using a virtual machine. 
+- WSL allows users to run native Linux command-line tools alongside their Windows applications, providing an integrated experience. 
 
 <img src="https://solidstudio.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Flofvu8al%2Fproduction%2F08a06675d7fa6ef8cc5829e4f9dfe25c62f22042-700x540.webp&w=1920&q=75" alt="Description" width="500" height="360">
 
 ## Linux File System
-The Linux file system is organized in a hierarchical structure. Key points include:
+The Linux file system is organized in a hierarchical structure. 
+
+Key points include:
 - **Root Directory**: Represented as `/`, it is the top of the file system hierarchy.
 - **Home Directory**: Each user has a home directory located at `/home/username`.
 - **File Types**: Regular files, directories, symbolic links, and special files.
@@ -81,7 +86,9 @@ Both directories are crucial for the functioning of applications and the operati
 
 ---
 ## Libraries in Linux
-In Linux, libraries are collections of pre-compiled code that programs can use to perform common tasks. They help reduce redundancy and promote code reuse. Libraries can be categorized as:
+In Linux, libraries are collections of pre-compiled code that programs can use to perform common tasks. 
+
+They help reduce redundancy and promote code reuse. Libraries can be categorized as:
 - **Static Libraries**: Linked to applications at compile-time, becoming part of the executable.
 - **Dynamic Libraries**: Loaded at runtime, allowing multiple programs to share the same library code.
 
@@ -110,8 +117,9 @@ Here are some fundamental commands you will use frequently:
 - `tail <file>`: Show the last few lines of a file.
 ```
 ### Using the `find` Command
-The `find` command is used to search for files and directories in a specified location based on various criteria. It is a powerful tool for locating files based on name, type, size, modification date, and more.
+The `find` command is used to search for files and directories in a specified location based on various criteria. 
 
+It is a powerful tool for locating files based on name, type, size, modification date, and more.
 ```bash
 find [path] [options] [expression]
 
@@ -124,10 +132,6 @@ The `grep` command is used to search for specific patterns within files or outpu
 grep [options] pattern [file...]
 
 grep -i "error" /var/log/syslog
-
-
-
-
 ```
 ## User Management
 Linux is a multi-user system, and user management is crucial:
@@ -197,5 +201,5 @@ This introduction covers the basics of Linux, including its history, distributio
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDI5NDMzOTMsLTQzNzY1NzQxN119
+eyJoaXN0b3J5IjpbLTQ3ODYxNjE0MywtNDM3NjU3NDE3XX0=
 -->
