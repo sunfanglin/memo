@@ -19,7 +19,7 @@
 
 ## What is Linux?
 - Linux is an open-source operating system based on Unix. 
-- It is widely used for servers, desktops, and embedded systems. 
+- 
 - Linux is known for its **stability, security, and flexibility**. 
 
 <img src="https://aquatech-esf.com/wp-content/uploads/2021/12/Linux.jpg" alt="Description" width="360" height="200">
@@ -44,7 +44,7 @@ Key milestones include:
 ---
 
 ## Linux Distributions
-A Linux distribution (distro) is a packaged version of the Linux operating system, containing the**Linux kernel, system utilities, and applications**.   
+A Linux distribution (distro) is a packaged version of the Linux operating system, containing theLinux kernel, system utilities, and applications**.   
 
 Popular distributions include:
 - **Ubuntu**: User-friendly and widely used for desktops.
@@ -200,5 +200,6 @@ Understanding basic networking commands in Linux is essential for system adminis
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MDU2NTU5NiwtNDM3NjU3NDE3XX0=
+eyJoaXN0b3J5IjpbMjExOTM1ODU2OSwxMDUwNTY1NTk2LC00Mz
+c2NTc0MTddfQ==
 -->
