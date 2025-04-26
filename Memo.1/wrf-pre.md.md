@@ -62,9 +62,9 @@ NOTE:       1 namelist vs input data inconsistencies found.
 Add the  folder into the **namelist.wps** file
 
 ## Segmentation fault - invalid memory reference
-- S it occurs at the first 10 min, 
+- Sometimes it occurs at the first 10 min, when wrf start to store variables, the reason is that the domains have too much grids. 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTkzNTM5OTldfQ==
+eyJoaXN0b3J5IjpbLTI4NzM2OTg5OF19
 -->
