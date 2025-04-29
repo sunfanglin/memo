@@ -1,6 +1,13 @@
 ## Modification of Terrain
 There is an option in the WRF namelist called surface_input_source which, if set to 1, will recompute surface inputs in real.exe. If you want to make changes in geogrid output and ensure they are not overwritten in real, you will need to set surface_input_source to 3.
 
+## 重力波拖曳方案介绍
+
+- WRF 模式中次网格地形重力波拖曳参数化方案中，包含重力波破碎和阻塞拖曳两种作用（Kim and Doyle, 2005），即在 **"gwd_opt = 1"**  设置下，可开启两种参数化方案.  
+- 在较新的 WRFv4.3 版中，追加了小尺度重力波拖曳和湍流地形拖曳两种效应，从而使得模式中的 GWD 方案考虑四种作用，此时在 WRF 中的参数化选项为
+> “gwd_opt=3”
+
+
 ## Hybrid Vertical Coordinate 混合坐标
 ### 混合垂直坐标
 
@@ -36,11 +43,8 @@ etac = 0.2
 
 - 随着etac值的增加（从0增加到1），更多的eta层次随着层次（从模式顶向下）数量的增加受到影响。一方面，这是一件好事，这种“坐标曲面的展平”是HVC选项的全部目的。然而，在地势较高的地区（不一定陡峭或复杂），当etac值大于约etac=0.22时，垂直eta水平被过度压缩。在喜马拉雅高原上，使用10 hPa模式盖时，etac=0.25的值会导致模型故障。在全球范围内，0.2的值被认为是“安全的”。美国东海岸可以使用etac=0.30，而纯海洋区域可能使用etac=0.40。
 
-## 重力波拖曳方案介绍
-- WRF 模式中次网格地形重力波拖曳参数化方案中，包含重力波破碎和阻塞拖曳两种作用（Kim and Doyle, 2005），即在 **"gwd_opt = 1"**  设置下，可开启两种参数化方案.  
-- 在较新的 WRFv4.3 版中，追加了小尺度重力波拖曳和湍流地形拖曳两种效应，从而使得模式中的 GWD 方案考虑四种作用，此时在 WRF 中的参数化选项为
 
-> “gwd_opt=3”
+
 
 
 # Errors in runing WRF
@@ -63,5 +67,5 @@ Add the  folder into the **namelist.wps** file
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY5MjcwNjkyXX0=
+eyJoaXN0b3J5IjpbLTEyMDM2MzQzNjRdfQ==
 -->
