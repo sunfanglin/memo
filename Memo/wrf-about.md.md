@@ -6,7 +6,7 @@ There is an option in the WRF namelist called surface_input_source which, if set
 - WRF 模式中次网格地形重力波拖曳参数化方案中，包含重力波破碎和阻塞拖曳两种作用（Kim and Doyle, 2005），即在 **"gwd_opt = 1"**  设置下，可开启两种参数化方案.  
 - 在较新的 WRFv4.3 版中，追加了小尺度重力波拖曳和湍流地形拖曳两种效应，从而使得模式中的 GWD 方案考虑四种作用，此时在 WRF 中的参数化选项为
 > “gwd_opt=3”
-## SMS-3DTKE 3D 边界层方案
+## SMS-3DTKE 3D 边界层方案（added from V4.2）
 - SMS-3DTKE is a scale-aware PBL scheme, which is especially useful for nest cases with large differences in grid size between domains. You are right that to implement this scheme, you need to set bl_pbl_physics = 0, diff_opt = 2, and km_opt = 5.
 - It's meant to be used in the LES, mesoscale, and gray-zone.
 - The SMS-3DTKE scheme will treat the PBL process at coarse resolution (such as 25km) in a way more similar to traditional PBL scheme. When the grid interval becomes smaller, this scheme gradually transfer to LES mode.  
@@ -71,5 +71,5 @@ Add the  folder into the **namelist.wps** file
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3OTc1MTU3N119
+eyJoaXN0b3J5IjpbLTE3ODgzOTIwMzRdfQ==
 -->
