@@ -9,7 +9,8 @@ There is an option in the WRF namelist called surface_input_source which, if set
 ## SMS-3DTKE 3D 边界层方案
 - SMS-3DTKE is a scale-aware PBL scheme, which is especially useful for nest cases with large differences in grid size between domains. You are right that to implement this scheme, you need to set bl_pbl_physics = 0, diff_opt = 2, and km_opt = 5.
 - It's meant to be used in the LES, mesoscale, and gray-zone.
-- 
+- The SMS-3DTKE scheme will treat the PBL process at coarse resolution (such as 25km) in a way more similar to traditional PBL scheme. When the grid interval becomes smaller, this scheme gradually transfer to LES mode.  
+- Cumuls parameterization must be turned on for grid intervals larger than 10km, and it can be on or off for the grey zone (4-10km), and it should be off for grid intervals smaller than 3km. It does't have to be the same for all domains.
 
 ## Hybrid Vertical Coordinate 混合坐标
 ### 混合垂直坐标
@@ -70,5 +71,5 @@ Add the  folder into the **namelist.wps** file
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NjcwNTE3NV19
+eyJoaXN0b3J5IjpbMTk3OTc1MTU3N119
 -->
