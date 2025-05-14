@@ -3,12 +3,12 @@
 2. 项目涉及城市化背景下TIBL研究，具有一定的理论价值和应用价值，但科学问题的凝练不够聚焦，关键点涵盖“城市复杂下垫面、SGL和TIBL高度计算优化等多个方面”，导致研究方向略显分散。
 3. 申请人有从事大气边界层动力学及湍流结构研究的经历，对于完成本项目有一定的保障。但申请人未充分说明引入LES对研究目标的具体意义和具体操作，缺少高分辨率模拟的下垫面基础数据支持，缺少对LES计算量和计算成本的论述。
 ## 建筑、绿化与城市湿热环境
-1. 项目提出通过缩尺外场实验和非稳态 CFD 高分辨率数值模拟，研究建筑布局与树木绿化的耦合影响，特别是在不同风速和热条件下的街区通风和热流机制，具有一定的创新性。
+1. 项目提出通过缩尺外场实验和非稳态 CFD 高分辨率数值模拟，研究建筑布局与树木绿化的耦合影响，特别是在不同风速和热条件下的街区通风和热流机制，具有一定的创新性，但创新机制的阐述和与现有研究的区分度需进一步加强。预期成果在理论和应用上具有较高科学价值，可为城市微气候研究和规划提供重要支持。
 2. 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzg0MzIyNzgsMjk2NTQ0NTA0LDExMD
-U3Nzg1NjcsNDYxMDA3MjUzLDg3NjUxODU4NCwtNTgxMzQ2NTU1
-XX0=
+eyJoaXN0b3J5IjpbODE4MDc3Njc3LC0xMTM4NDMyMjc4LDI5Nj
+U0NDUwNCwxMTA1Nzc4NTY3LDQ2MTAwNzI1Myw4NzY1MTg1ODQs
+LTU4MTM0NjU1NV19
 -->
