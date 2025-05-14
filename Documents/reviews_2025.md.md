@@ -4,11 +4,11 @@
 3. 申请人有从事大气边界层动力学及湍流结构研究的经历，对于完成本项目有一定的保障。但申请人未充分说明引入LES对研究目标的具体意义和具体操作，缺少高分辨率模拟的下垫面基础数据支持，缺少对LES计算量和计算成本的论述。
 ## 建筑、绿化与城市湿热环境
 1. 项目提出通过缩尺外场实验和非稳态 CFD 高分辨率数值模拟，研究建筑布局与树木绿化的耦合影响，特别是在不同风速和热条件下的街区通风和热流机制，具有一定的创新性。预期成果在理论和应用上具有较高科学价值，可为城市微气候研究和规划提供重要支持。
-2. 项目选题针对城市热岛效应和湿热环境的微气候问题，与我国快速城市化和绿色发展的社会经济需求契合。
+2. 项目选题针对城市热岛效应和湿热环境的微气候问题，与我国快速城市化和绿色发展的社会经济需求契合。此外，项目聚焦建筑布局与树木绿化在亚热带湿热环境中的耦合影响机理，涉及热流、通风、湿度调节等复杂的物理过程，属于城市微气候领域的关键科学问题。
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjgwNzEyNjgsLTExMzg0MzIyNzgsMj
-k2NTQ0NTA0LDExMDU3Nzg1NjcsNDYxMDA3MjUzLDg3NjUxODU4
-NCwtNTgxMzQ2NTU1XX0=
+eyJoaXN0b3J5IjpbLTc4NzQ0MzI1MSwtMTEzODQzMjI3OCwyOT
+Y1NDQ1MDQsMTEwNTc3ODU2Nyw0NjEwMDcyNTMsODc2NTE4NTg0
+LC01ODEzNDY1NTVdfQ==
 -->
