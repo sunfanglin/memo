@@ -5,11 +5,11 @@
 ## 建筑、绿化与城市湿热环境
 1. 项目提出通过缩尺外场实验和非稳态 CFD 高分辨率数值模拟，研究建筑布局与树木绿化的耦合影响，特别是在不同风速和热条件下的街区通风和热流机制，具有一定的创新性。预期成果在理论和应用上具有较高科学价值，可为城市微气候研究和规划提供重要支持。
 2. 项目选题针对城市热岛效应和湿热环境的微气候问题，与我国快速城市化和绿色发展的社会经济需求契合。此外，项目聚焦建筑布局与树木绿化在亚热带湿热环境中的耦合影响机理，涉及热流、通风、湿度调节等复杂的物理过程，属于城市微气候领域的关键科学问题。
-3. 研究方案在方法设计、数据支持、实验条件和团队合作方面具有较好的可行性，依托申请人的前期积累和资源优势，项目实施的基本条件已具备。但项目研究内容略为分散，不够聚焦，其中关于机器学习的内容论述过于简单
+3. 研究方案在方法设计、数据支持、实验条件和团队合作方面具有较好的可行性，依托申请人的前期积累和资源优势，项目实施的基本条件已具备。但项目研究内容略为分散，不够聚焦，其中关于机器学习的内容论述过于简单，让人感觉缺少相应研究基础和具体调研。
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODU4MDI1NDksLTc4NzQ0MzI1MSwtMT
-EzODQzMjI3OCwyOTY1NDQ1MDQsMTEwNTc3ODU2Nyw0NjEwMDcy
-NTMsODc2NTE4NTg0LC01ODEzNDY1NTVdfQ==
+eyJoaXN0b3J5IjpbLTYwOTIyMDMzNCwtNzg3NDQzMjUxLC0xMT
+M4NDMyMjc4LDI5NjU0NDUwNCwxMTA1Nzc4NTY3LDQ2MTAwNzI1
+Myw4NzY1MTg1ODQsLTU4MTM0NjU1NV19
 -->
