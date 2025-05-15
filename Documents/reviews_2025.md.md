@@ -8,11 +8,12 @@
 3. 研究方案在方法设计、数据支持、实验条件和团队合作方面具有较好的可行性，依托申请人的前期积累和资源优势，项目实施的基本条件已具备。但项目研究内容略为分散，不够聚焦，其中关于机器学习的内容论述过于简单，让人感觉缺少相应研究基础和具体调研。
 
 ## 澳门
-1. 项目研究思想在多尺度模型耦合、针对小型岛屿城市的高精度模拟以及气候变化情景分析方面具有一定创新性，然而，科学问题的独特性、以及与现有研究的差异性阐述不足。未能通过对比突出本项目的科学问题在机理、方法或区域特色上的突破，导致科学问题显得常规。
+1. 项目研究思想在多尺度模型耦合、针对小型岛屿城市的高精度模拟以及气候变化情景分析方面具有一定创新性，然而，申请人对科学问题的独特性、以及与现有研究的差异性阐述不足。虽然综述提到“小型岛屿城市的高精度模拟研究较少”，但未具体说明现有研究（如香港）与澳门的差异，未能通过对比突出本项目的科学问题在机理、方法或区域特色上的突破。
+2. 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI1Nzc5OTEzLC02MDkyMjAzMzQsLTc4Nz
-Q0MzI1MSwtMTEzODQzMjI3OCwyOTY1NDQ1MDQsMTEwNTc3ODU2
-Nyw0NjEwMDcyNTMsODc2NTE4NTg0LC01ODEzNDY1NTVdfQ==
+eyJoaXN0b3J5IjpbLTE4Mzc4ODIxNzMsLTYwOTIyMDMzNCwtNz
+g3NDQzMjUxLC0xMTM4NDMyMjc4LDI5NjU0NDUwNCwxMTA1Nzc4
+NTY3LDQ2MTAwNzI1Myw4NzY1MTg1ODQsLTU4MTM0NjU1NV19
 -->
