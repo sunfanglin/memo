@@ -16,11 +16,15 @@
 2. 该项目针对青藏高原内部沙尘释放被低估的问题，提出开发高精度动态沙尘源函数，结合WRF-Chem模式和敏感性试验，量化沙尘释放量及其辐射气候效应，科学问题有价值。项目填补了高海拔地区沙尘研究的空白，成果可改善气候模型，支持高原生态保护和“碳中和”目标。
 3. 申请人前期在沙尘源图开发和数值模拟方面有一定的经验积累，依托高性能计算平台，项目可行性强。
 
+## 无人机
+1. 科学问题未明确湍流特性的具体指标或影响无人机飞行的量化假设，理论深度稍显不足
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NTgxMzA1MywyMDA5OTgwNTM4LDE0ND
-I5ODU1MTAsMTU1MDMwODQxMSwtMTI4ODcyNjMyOSwxODgxMzkz
-NDgwLC0xODM3ODgyMTczLC02MDkyMjAzMzQsLTc4NzQ0MzI1MS
-wtMTEzODQzMjI3OCwyOTY1NDQ1MDQsMTEwNTc3ODU2Nyw0NjEw
-MDcyNTMsODc2NTE4NTg0LC01ODEzNDY1NTVdfQ==
+eyJoaXN0b3J5IjpbMzMwNDQ5Mjc5LC00ODU4MTMwNTMsMjAwOT
+k4MDUzOCwxNDQyOTg1NTEwLDE1NTAzMDg0MTEsLTEyODg3MjYz
+MjksMTg4MTM5MzQ4MCwtMTgzNzg4MjE3MywtNjA5MjIwMzM0LC
+03ODc0NDMyNTEsLTExMzg0MzIyNzgsMjk2NTQ0NTA0LDExMDU3
+Nzg1NjcsNDYxMDA3MjUzLDg3NjUxODU4NCwtNTgxMzQ2NTU1XX
+0=
 -->
