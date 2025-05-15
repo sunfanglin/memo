@@ -18,14 +18,14 @@
 
 ## 无人机
 1. 项目针对中国低空经济发展战略和无人机产业需求和城市边界层中小尺度湍流高频观测的科学难题，提出10 Hz协同观测和湍流谱优化方法，为无人机安全和低空气象服务提供基础支撑，有一定理论价值和应用前景。但申请人对科学问题的论述未明确湍流特性的具体指标或影响无人机飞行的量化假设，理论深度稍显不足。
-2. 申请书针对城市边界层中小尺度湍流高频观测的瓶颈，提出多台测风激光雷达协同观测和频谱优化方法。
+2. 申请书针对城市边界层中小尺度湍流高频观测的瓶颈，提出多台测风激光雷达协同观测和频谱优化方法，具有一定的创新性。
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NDI4NzQ1NSw3ODQ3OTUyMDAsLTQ4NT
-gxMzA1MywyMDA5OTgwNTM4LDE0NDI5ODU1MTAsMTU1MDMwODQx
-MSwtMTI4ODcyNjMyOSwxODgxMzkzNDgwLC0xODM3ODgyMTczLC
-02MDkyMjAzMzQsLTc4NzQ0MzI1MSwtMTEzODQzMjI3OCwyOTY1
-NDQ1MDQsMTEwNTc3ODU2Nyw0NjEwMDcyNTMsODc2NTE4NTg0LC
-01ODEzNDY1NTVdfQ==
+eyJoaXN0b3J5IjpbLTE5NDYyMzMyMDUsNzg0Nzk1MjAwLC00OD
+U4MTMwNTMsMjAwOTk4MDUzOCwxNDQyOTg1NTEwLDE1NTAzMDg0
+MTEsLTEyODg3MjYzMjksMTg4MTM5MzQ4MCwtMTgzNzg4MjE3My
+wtNjA5MjIwMzM0LC03ODc0NDMyNTEsLTExMzg0MzIyNzgsMjk2
+NTQ0NTA0LDExMDU3Nzg1NjcsNDYxMDA3MjUzLDg3NjUxODU4NC
+wtNTgxMzQ2NTU1XX0=
 -->
