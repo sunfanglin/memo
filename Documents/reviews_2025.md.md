@@ -17,11 +17,11 @@
 3. 申请人前期在沙尘源图开发和数值模拟方面有一定的经验积累，依托高性能计算平台，项目可行性强。
 
 ## 无人机
-1. 科学问题未明确湍流特性的具体指标或影响无人机飞行的量化假设，理论深度稍显不足
+1. 项目针对中国低空经济发展战略和无人机产业需求，科学问题未明确湍流特性的具体指标或影响无人机飞行的量化假设，理论深度稍显不足
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMwNDQ5Mjc5LC00ODU4MTMwNTMsMjAwOT
+eyJoaXN0b3J5IjpbNjIyNTE2MTY2LC00ODU4MTMwNTMsMjAwOT
 k4MDUzOCwxNDQyOTg1NTEwLDE1NTAzMDg0MTEsLTEyODg3MjYz
 MjksMTg4MTM5MzQ4MCwtMTgzNzg4MjE3MywtNjA5MjIwMzM0LC
 03ODc0NDMyNTEsLTExMzg0MzIyNzgsMjk2NTQ0NTA0LDExMDU3
