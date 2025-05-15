@@ -9,11 +9,12 @@
 
 ## 澳门
 1. 项目研究思想在多尺度模型耦合、针对小型岛屿城市的高精度模拟以及气候变化情景分析方面具有一定创新性，然而，申请人对科学问题的独特性、以及与现有研究的差异性阐述不足。虽然综述提到“小型岛屿城市的高精度模拟研究较少”，但未具体说明现有研究（如香港）与澳门的差异，未能通过对比突出本项目的科学问题在机理、方法或区域特色上的突破。
-2. 
+2. 科学问题在填补小型岛屿城市高精度模拟研究空白、探索多尺度物理过程耦合机制以及结合气候变化情景方面具有较高考术价值。
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mzc4ODIxNzMsLTYwOTIyMDMzNCwtNz
-g3NDQzMjUxLC0xMTM4NDMyMjc4LDI5NjU0NDUwNCwxMTA1Nzc4
-NTY3LDQ2MTAwNzI1Myw4NzY1MTg1ODQsLTU4MTM0NjU1NV19
+eyJoaXN0b3J5IjpbMTk5NDcxNDEwNywtMTgzNzg4MjE3MywtNj
+A5MjIwMzM0LC03ODc0NDMyNTEsLTExMzg0MzIyNzgsMjk2NTQ0
+NTA0LDExMDU3Nzg1NjcsNDYxMDA3MjUzLDg3NjUxODU4NCwtNT
+gxMzQ2NTU1XX0=
 -->
