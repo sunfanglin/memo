@@ -7,11 +7,12 @@
 2. 项目选题针对城市热岛效应和湿热环境的微气候问题，与我国快速城市化和绿色发展的社会经济需求契合。此外，项目聚焦建筑布局与树木绿化在亚热带湿热环境中的耦合影响机理，涉及热流、通风、湿度调节等复杂的物理过程，属于城市微气候领域的关键科学问题。
 3. 研究方案在方法设计、数据支持、实验条件和团队合作方面具有较好的可行性，依托申请人的前期积累和资源优势，项目实施的基本条件已具备。但项目研究内容略为分散，不够聚焦，其中关于机器学习的内容论述过于简单，让人感觉缺少相应研究基础和具体调研。
 
-
+## 澳门
+1. 项目研究思想在多尺度模型耦合、针对小型岛屿城市的高精度模拟以及气候变化情景分析方面具有一定创新性，然而，科学问题的独特性、以及与现有研究的差异性阐述不足。
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDY1NzMzMzAsLTYwOTIyMDMzNCwtNz
-g3NDQzMjUxLC0xMTM4NDMyMjc4LDI5NjU0NDUwNCwxMTA1Nzc4
-NTY3LDQ2MTAwNzI1Myw4NzY1MTg1ODQsLTU4MTM0NjU1NV19
+eyJoaXN0b3J5IjpbMTkzMDU4OTE1NSwtNjA5MjIwMzM0LC03OD
+c0NDMyNTEsLTExMzg0MzIyNzgsMjk2NTQ0NTA0LDExMDU3Nzg1
+NjcsNDYxMDA3MjUzLDg3NjUxODU4NCwtNTgxMzQ2NTU1XX0=
 -->
