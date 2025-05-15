@@ -13,13 +13,13 @@
 3. 申请人及其团队在城市微气候、CFD（计算流体力学）模拟和WRF（天气研究与预报）模型应用方面展现出较强的学术积累和技术能力；研究方案依托多模型耦合、丰富的数据资源和强大的计算支持，设计合理且具有前沿性，具备较好的实施条件。
 ## 沙尘
 1. 申请项目的研究思想具有一定的创新性，聚焦青藏高原内部沙尘释放的低估问题，提出高精度动态沙尘源函数和敏感性试验的解决方案，填补了高海拔地区研究的空白。
-2. 该项目针对青藏高原内部沙尘释放被低估的问题，提出开发高精度动态沙尘源函数，结合WRF-Chem模式和敏感性试验，量化沙尘释放量及其辐射气候效应，科学问题有价值。项目填补了高海拔地区沙尘研究的空白，成果可改善气候模型，支持高原生态保护和“碳中和”目标，还能通过开放数据集惠及全球研究。
+2. 该项目针对青藏高原内部沙尘释放被低估的问题，提出开发高精度动态沙尘源函数，结合WRF-Chem模式和敏感性试验，量化沙尘释放量及其辐射气候效应，科学问题有价值。项目填补了高海拔地区沙尘研究的空白，成果可改善气候模型，支持高原生态保护和“碳中和”目标。
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzODAwNzE3LDE0NDI5ODU1MTAsMTU1MD
-MwODQxMSwtMTI4ODcyNjMyOSwxODgxMzkzNDgwLC0xODM3ODgy
-MTczLC02MDkyMjAzMzQsLTc4NzQ0MzI1MSwtMTEzODQzMjI3OC
-wyOTY1NDQ1MDQsMTEwNTc3ODU2Nyw0NjEwMDcyNTMsODc2NTE4
-NTg0LC01ODEzNDY1NTVdfQ==
+eyJoaXN0b3J5IjpbMjAwOTk4MDUzOCwxNDQyOTg1NTEwLDE1NT
+AzMDg0MTEsLTEyODg3MjYzMjksMTg4MTM5MzQ4MCwtMTgzNzg4
+MjE3MywtNjA5MjIwMzM0LC03ODc0NDMyNTEsLTExMzg0MzIyNz
+gsMjk2NTQ0NTA0LDExMDU3Nzg1NjcsNDYxMDA3MjUzLDg3NjUx
+ODU4NCwtNTgxMzQ2NTU1XX0=
 -->
