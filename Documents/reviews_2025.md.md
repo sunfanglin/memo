@@ -12,11 +12,11 @@
 2. 申请人凝练的科学问题在填补岛屿城市高精度模拟研究空白、探索多尺度物理过程耦合机制以及结合气候变化情景方面具有一定学术价值。但科学问题缺少独特性，与现有城市气候研究热点（如城市热岛效应、污染物扩散、气候变化影响）重叠，未能提出澳门独有的理论假设或机制。另外申请人未能充分论述澳门城市污染严重程度和危害影响，使得本项目研究显得缺少应用价值上的紧迫性。
 3. 申请人及其团队在城市微气候、CFD（计算流体力学）模拟和WRF（天气研究与预报）模型应用方面展现出较强的学术积累和技术能力；研究方案依托多模型耦合、丰富的数据资源和强大的计算支持，设计合理且具有前沿性，具备较好的实施条件。
 ## 沙尘
-1. 申请项目的研究思想创新性高，敏锐捕捉了青藏高原内部沙尘释放的低估问题，提出高精度动态沙尘源函数和敏感性试验的解决方案，填补了高海拔地区研究的空白。方法论突破了现有模式的局限，成果具有区域和全球意义，可推动气候模型改进和生态治理。
+1. 申请项目的研究思想具有一定的创新性，聚焦青藏高原内部沙尘释放的低估问题，提出高精度动态沙尘源函数和敏感性试验的解决方案，填补了高海拔地区研究的空白。方法论突破了现有模式的局限，成果具有区域和全球意义，可推动气候模型改进和生态治理。
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MTYyOTE0MCwtMTI4ODcyNjMyOSwxOD
+eyJoaXN0b3J5IjpbMTU1MDMwODQxMSwtMTI4ODcyNjMyOSwxOD
 gxMzkzNDgwLC0xODM3ODgyMTczLC02MDkyMjAzMzQsLTc4NzQ0
 MzI1MSwtMTEzODQzMjI3OCwyOTY1NDQ1MDQsMTEwNTc3ODU2Ny
 w0NjEwMDcyNTMsODc2NTE4NTg0LC01ODEzNDY1NTVdfQ==
