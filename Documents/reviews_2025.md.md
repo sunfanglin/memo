@@ -9,13 +9,13 @@
 
 ## 澳门
 1. 项目研究思想在多尺度模型耦合、针对小型岛屿城市的高精度模拟以及气候变化情景分析方面具有一定创新性，然而，申请人对科学问题的独特性、以及与现有研究的差异性阐述不足。虽然综述提到“小型岛屿城市的高精度模拟研究较少”，但未具体说明现有研究（如香港）与澳门的差异，未能通过对比突出本项目的科学问题在机理、方法或区域特色上的突破。
-2. 科学问题在填补小型岛屿城市高精度模拟研究空白、探索多尺度物理过程耦合机制以及结合气候变化情景方面具有一定学术价值。但科学问题缺少独特性，与现有城市气候研究热点（如城市热岛效应、污染物扩散、气候变化影响）重叠，未能提出澳门独有的理论假设或机制。另外申请人未能充分论述澳门城市污染严重程度和危害影响，使得本项目研究显得缺少应用价值上的紧迫性。
+2. 申请人科学问题在填补小型岛屿城市高精度模拟研究空白、探索多尺度物理过程耦合机制以及结合气候变化情景方面具有一定学术价值。但科学问题缺少独特性，与现有城市气候研究热点（如城市热岛效应、污染物扩散、气候变化影响）重叠，未能提出澳门独有的理论假设或机制。另外申请人未能充分论述澳门城市污染严重程度和危害影响，使得本项目研究显得缺少应用价值上的紧迫性。
 3. 申请人及其团队在城市微气候、CFD（计算流体力学）模拟和WRF（天气研究与预报）模型应用方面展现出较强的学术积累和技术能力；研究方案依托多模型耦合、丰富的数据资源和强大的计算支持，设计合理且具有前沿性，具备较好的实施条件。
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4OTUyOTYzOSwxODgxMzkzNDgwLC0xOD
-M3ODgyMTczLC02MDkyMjAzMzQsLTc4NzQ0MzI1MSwtMTEzODQz
-MjI3OCwyOTY1NDQ1MDQsMTEwNTc3ODU2Nyw0NjEwMDcyNTMsOD
-c2NTE4NTg0LC01ODEzNDY1NTVdfQ==
+eyJoaXN0b3J5IjpbLTEwMzc4OTM1MDksMTg4MTM5MzQ4MCwtMT
+gzNzg4MjE3MywtNjA5MjIwMzM0LC03ODc0NDMyNTEsLTExMzg0
+MzIyNzgsMjk2NTQ0NTA0LDExMDU3Nzg1NjcsNDYxMDA3MjUzLD
+g3NjUxODU4NCwtNTgxMzQ2NTU1XX0=
 -->
