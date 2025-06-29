@@ -5,7 +5,11 @@
 
 verter:ubuntu-full-gdal-3.6.3
 
+
+
+## light-use efficiency ($\epsilon$)
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjcyMTY0NjldfQ==
+eyJoaXN0b3J5IjpbMTEwMjY3NTE2MSwtMTA2NzIxNjQ2OV19
 -->
