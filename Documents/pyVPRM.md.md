@@ -8,8 +8,8 @@ verter:ubuntu-full-gdal-3.6.3
 
 
 ## light-use efficiency ($\epsilon$)
-In pyVPRM, $\epsilon$ is calculated based on temperature and MODIS data (LSWI), thus should be validated with results from observations and eddy covariance 
+In pyVPRM, $\epsilon$ is calculated based on temperatures and MODIS data (LSWI), thus should be evaluated with results from observations and eddy covariances.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MjI4Mzk0OCwtMTA2NzIxNjQ2OV19
+eyJoaXN0b3J5IjpbMTI2ODk5OTAzMywtMTA2NzIxNjQ2OV19
 -->
