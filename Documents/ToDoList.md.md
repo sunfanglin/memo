@@ -5,12 +5,14 @@
 - [ ] Merge IMDAA data, split them by month, change variable names, fix time name if needed.
 
 ### 07/01/2025
+- [ ] Evaluate the performance of IMDAA data driving pyVPRM
+- [ ]  Download GLDAS data, and evaluate with IMDAA and ERA5
 - [ ] Compare T and radiation between ERA5 and IMDAA over Tibetan Plateau.q
 - [ ] Sentinel image to derive NEE and GPP  
 
 > 面对信仰，纵身一跃
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjczMjc5NzcsMTA3NTUxMjUyMiw2Mj
-g1MzgyNDNdfQ==
+eyJoaXN0b3J5IjpbMTIzMTIxODAzNCwtMTcyNzMyNzk3NywxMD
+c1NTEyNTIyLDYyODUzODI0M119
 -->
