@@ -4,10 +4,11 @@
 - [x] Download ERA5 data by year and merge. :white_check_mark:
 - [ ] Merge IMDAA data, split them by month, change variable names, fix time name if needed.
 - [ ] Compare T and radiation between ERA5 and IMDAA over Tibetan Plateau.
+### 2025-07-01
 - [ ] Sentinel image to derive NEE and GPP  
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MTI5NDM0OV19
+eyJoaXN0b3J5IjpbNjI4NTM4MjQzXX0=
 -->
