@@ -1,4 +1,5 @@
-## week
+# 2025
+## Week 27
 ### 2025-06-30
 - Download ERA5 data by year and merge.
 - Merge IMDAA data, split them by month, change variable names, fix time name if needed.
@@ -8,5 +9,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3OTg5Mjg0NV19
+eyJoaXN0b3J5IjpbLTk3MzA5NTI5Ml19
 -->
