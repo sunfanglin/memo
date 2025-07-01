@@ -6,8 +6,8 @@
 - [x] NOTE: The t2m of IMDAA data are hourly while ssrd 3-hourly.
 
 ### 07/01/2025
-- [ ] Re-process IMDAA data since The t2m of IMDAA data are hourly while ssrd are 3-hourly. Ignoring this resulted in fault ssrd values in merged data.
-- [ ] Merge ssrd data of IMDAA, and re-split them by year to avoid the first record of the year being 
+- [x] Re-process IMDAA data since The t2m of IMDAA data are hourly while ssrd are 3-hourly. Ignoring this resulted in fault ssrd values in merged data.
+- [ ] Merge ssrd data of IMDAA, and re-split them by year to avoid the first record of the year (2022-01-01 00:00 ) being stored in data file of last year (2021).
 - [ ] Evaluate the performance of IMDAA data driving pyVPRM
 - [ ]  Download GLDAS data, and evaluate with IMDAA and ERA5
 - [ ] Compare T and radiation between ERA5 and IMDAA over Tibetan Plateau.q
@@ -16,7 +16,7 @@
 > 面对信仰，纵身一跃
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjM5MTM3ODksLTEyOTEzMTQ5NjgsMT
-c2NTQ0MDIwOCwxMjMxMjE4MDM0LC0xNzI3MzI3OTc3LDEwNzU1
-MTI1MjIsNjI4NTM4MjQzXX0=
+eyJoaXN0b3J5IjpbMjg4Njg3ODMwLC0xMjkxMzE0OTY4LDE3Nj
+U0NDAyMDgsMTIzMTIxODAzNCwtMTcyNzMyNzk3NywxMDc1NTEy
+NTIyLDYyODUzODI0M119
 -->
