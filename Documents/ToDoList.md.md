@@ -15,12 +15,12 @@
 
 **The pyVPRM out driven by IMDAA data are wrong.** 
 ### 07/12/2025
-- [ ] Re-process MODIS tiles .
+- [ ] Re-process MODIS tiles of 2024, and run pyVPRM, compare the out with 2022.
 
 > 面对信仰，纵身一跃
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MzM2NDc0MiwyODg2ODc4MzAsLTEyOT
-EzMTQ5NjgsMTc2NTQ0MDIwOCwxMjMxMjE4MDM0LC0xNzI3MzI3
-OTc3LDEwNzU1MTI1MjIsNjI4NTM4MjQzXX0=
+eyJoaXN0b3J5IjpbLTE4ODYyNDk3MDUsMjg4Njg3ODMwLC0xMj
+kxMzE0OTY4LDE3NjU0NDAyMDgsMTIzMTIxODAzNCwtMTcyNzMy
+Nzk3NywxMDc1NTEyNTIyLDYyODUzODI0M119
 -->
