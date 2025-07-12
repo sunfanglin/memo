@@ -15,13 +15,14 @@
 
 **The pyVPRM out driven by IMDAA data are wrong.** 
 ### 07/12/2025
-- [x] Re-process MODIS tiles of 2024, and run pyVPRM, compare the out with 2022. **The GPP sum of 2024 is nearly trice **
+- [x] Re-process MODIS tiles of 2024, and run pyVPRM, compare the out with 2022.  **The GPP sum of 2024 is nearly twice of 2022**
+### 07/13/2025
 - [ ] Process MODIS tiles of 2023 
 
 > 面对信仰，纵身一跃
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NDIyOTQ4NCwtMTg4NjI0OTcwNSwyOD
+eyJoaXN0b3J5IjpbMTgwOTczMDQ3NSwtMTg4NjI0OTcwNSwyOD
 g2ODc4MzAsLTEyOTEzMTQ5NjgsMTc2NTQ0MDIwOCwxMjMxMjE4
 MDM0LC0xNzI3MzI3OTc3LDEwNzU1MTI1MjIsNjI4NTM4MjQzXX
 0=
