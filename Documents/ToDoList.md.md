@@ -12,11 +12,14 @@
 - [ ]  Download GLDAS data, and evaluate with IMDAA and ERA5
 - [ ] Compare T and radiation between ERA5 and IMDAA over Tibetan Plateau.q
 - [ ] Sentinel image to derive NEE and GPP  
+The pyVPRM out driven by IMDAA data 
+### 07/12/2025
+- [ ] Re-process IMDAA data since The t2m of IMDAA data are hourly while ssrd are 3-hourly. Ignoring this resulted in fault ssrd values in merged data.
 
 > 面对信仰，纵身一跃
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg4Njg3ODMwLC0xMjkxMzE0OTY4LDE3Nj
-U0NDAyMDgsMTIzMTIxODAzNCwtMTcyNzMyNzk3NywxMDc1NTEy
-NTIyLDYyODUzODI0M119
+eyJoaXN0b3J5IjpbNDczMzM4MTczLDI4ODY4NzgzMCwtMTI5MT
+MxNDk2OCwxNzY1NDQwMjA4LDEyMzEyMTgwMzQsLTE3MjczMjc5
+NzcsMTA3NTUxMjUyMiw2Mjg1MzgyNDNdfQ==
 -->
