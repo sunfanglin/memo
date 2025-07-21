@@ -22,13 +22,15 @@
 ## Week 28
 ### 07/20/2025
 - [x] The sat-download script does not work, due to empty folders of the source link. Changed to download directly from  [LPCLOUD of NASA EARTHDATA](https://search.earthdata.nasa.gov/search?q=C2343111356-LPCLOUD)
-- [x] Make a github repo of scripts dealing with pyVPRM inputs and outputs. [My ](https://github.com/sunfanglin/pyVPRM_examples)
+- [x] Make a github repo of scripts dealing with pyVPRM inputs and outputs. [My pyVPRM scripts](https://github.com/sunfanglin/pyVPRM_examples)
 ### 07/21/2025
 - [ ] Make parallel folders of vprm-prediction based on landcover 2016 and 2019 
+- [ ] Clip MODIS images of year 2015-2018
+- [ ] Run the vprm-predictio
 > 面对信仰，纵身一跃
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NjE4MjU1OSwxNTUzMjM2NDMxLC0xOD
+eyJoaXN0b3J5IjpbMTE1ODg0NzUzNCwxNTUzMjM2NDMxLC0xOD
 g2MjQ5NzA1LDI4ODY4NzgzMCwtMTI5MTMxNDk2OCwxNzY1NDQw
 MjA4LDEyMzEyMTgwMzQsLTE3MjczMjc5NzcsMTA3NTUxMjUyMi
 w2Mjg1MzgyNDNdfQ==
