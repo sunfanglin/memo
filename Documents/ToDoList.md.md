@@ -27,14 +27,16 @@
 - [ ] Make parallel folders of vprm-prediction based on landcover 2016 and 2019 
 - [x] Clip MODIS images of year 2015-2018
 - [ ] Run the vprm-prediction of year 2015-2018
-
+### 07/22/2025
+- [ ] Check pyVPRM_examples out folder, if the data is based on landcover 2019.  
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDgxMTQwMjcsLTEyNjAyOTk1MzksOD
-k1NDQ3Mjc2LDE1NTMyMzY0MzEsLTE4ODYyNDk3MDUsMjg4Njg3
-ODMwLC0xMjkxMzE0OTY4LDE3NjU0NDAyMDgsMTIzMTIxODAzNC
-wtMTcyNzMyNzk3NywxMDc1NTEyNTIyLDYyODUzODI0M119
+eyJoaXN0b3J5IjpbMTQ5MzIzMDkyNSwtMTU0ODExNDAyNywtMT
+I2MDI5OTUzOSw4OTU0NDcyNzYsMTU1MzIzNjQzMSwtMTg4NjI0
+OTcwNSwyODg2ODc4MzAsLTEyOTEzMTQ5NjgsMTc2NTQ0MDIwOC
+wxMjMxMjE4MDM0LC0xNzI3MzI3OTc3LDEwNzU1MTI1MjIsNjI4
+NTM4MjQzXX0=
 -->
