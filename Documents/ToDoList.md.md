@@ -21,13 +21,13 @@
 - [x] Got many INF values, the cause is likely the usage of multi-cores, but reason is still unknown.** 
 ## Week 28
 ### 07/20/2025
-- [ ] 
+- [ ] The sat-download script does not work, due to empty folders of the source link. Changed to download directly from  
 
 > 面对信仰，纵身一跃
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDI5NjM0NjAsMTU1MzIzNjQzMSwtMT
-g4NjI0OTcwNSwyODg2ODc4MzAsLTEyOTEzMTQ5NjgsMTc2NTQ0
-MDIwOCwxMjMxMjE4MDM0LC0xNzI3MzI3OTc3LDEwNzU1MTI1Mj
-IsNjI4NTM4MjQzXX0=
+eyJoaXN0b3J5IjpbNTkxNjU0NjE3LDE1NTMyMzY0MzEsLTE4OD
+YyNDk3MDUsMjg4Njg3ODMwLC0xMjkxMzE0OTY4LDE3NjU0NDAy
+MDgsMTIzMTIxODAzNCwtMTcyNzMyNzk3NywxMDc1NTEyNTIyLD
+YyODUzODI0M119
 -->
