@@ -25,7 +25,7 @@
 - [x] Make a github repo of scripts dealing with pyVPRM inputs and outputs. [My pyVPRM scripts](https://github.com/sunfanglin/pyVPRM_examples)
 ### 07/21/2025
 - [ ] Make parallel folders of vprm-prediction based on landcover 2016 and 2019 
-- [ ] Clip MODIS images of year 2015-2018
+- [x] Clip MODIS images of year 2015-2018
 - [ ] Run the vprm-prediction of year 2015-2018
 
 
@@ -33,8 +33,8 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjAyOTk1MzksODk1NDQ3Mjc2LDE1NT
-MyMzY0MzEsLTE4ODYyNDk3MDUsMjg4Njg3ODMwLC0xMjkxMzE0
-OTY4LDE3NjU0NDAyMDgsMTIzMTIxODAzNCwtMTcyNzMyNzk3Ny
-wxMDc1NTEyNTIyLDYyODUzODI0M119
+eyJoaXN0b3J5IjpbLTE1NDgxMTQwMjcsLTEyNjAyOTk1MzksOD
+k1NDQ3Mjc2LDE1NTMyMzY0MzEsLTE4ODYyNDk3MDUsMjg4Njg3
+ODMwLC0xMjkxMzE0OTY4LDE3NjU0NDAyMDgsMTIzMTIxODAzNC
+wtMTcyNzMyNzk3NywxMDc1NTEyNTIyLDYyODUzODI0M119
 -->
