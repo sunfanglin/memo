@@ -21,13 +21,13 @@
 - [x] Got many INF values, the cause is likely the usage of multi-cores, but reason is still unknown.** 
 ## Week 28
 ### 07/20/2025
-- [ ] The sat-download script does not work, due to empty folders of the source link. Changed to download directly from  
+- [ ] The sat-download script does not work, due to empty folders of the source link. Changed to download directly from  [LPCLOUD of NASA EARTHDATA](https://search.earthdata.nasa.gov/search?q=C2343111356-LPCLOUD)
 
 > 面对信仰，纵身一跃
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkxNjU0NjE3LDE1NTMyMzY0MzEsLTE4OD
-YyNDk3MDUsMjg4Njg3ODMwLC0xMjkxMzE0OTY4LDE3NjU0NDAy
-MDgsMTIzMTIxODAzNCwtMTcyNzMyNzk3NywxMDc1NTEyNTIyLD
-YyODUzODI0M119
+eyJoaXN0b3J5IjpbNzU2MDUzODMsMTU1MzIzNjQzMSwtMTg4Nj
+I0OTcwNSwyODg2ODc4MzAsLTEyOTEzMTQ5NjgsMTc2NTQ0MDIw
+OCwxMjMxMjE4MDM0LC0xNzI3MzI3OTc3LDEwNzU1MTI1MjIsNj
+I4NTM4MjQzXX0=
 -->
