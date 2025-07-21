@@ -17,14 +17,14 @@
 ### 07/12/2025
 - [x] Re-process MODIS tiles of 2024, and run pyVPRM, compare the out with 2022.  **The GPP sum of 2024 is nearly twice of 2022**
 ### 07/13/2025
-- [ ] Process MODIS tiles of 2023 
+- [x] Process MODIS tiles of 2023. ** Got many INF values, the  
 ## Week 28
 
 > 面对信仰，纵身一跃
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MzIzNjQzMSwtMTg4NjI0OTcwNSwyOD
-g2ODc4MzAsLTEyOTEzMTQ5NjgsMTc2NTQ0MDIwOCwxMjMxMjE4
-MDM0LC0xNzI3MzI3OTc3LDEwNzU1MTI1MjIsNjI4NTM4MjQzXX
-0=
+eyJoaXN0b3J5IjpbLTE4NjY3MzUxMzIsMTU1MzIzNjQzMSwtMT
+g4NjI0OTcwNSwyODg2ODc4MzAsLTEyOTEzMTQ5NjgsMTc2NTQ0
+MDIwOCwxMjMxMjE4MDM0LC0xNzI3MzI3OTc3LDEwNzU1MTI1Mj
+IsNjI4NTM4MjQzXX0=
 -->
