@@ -21,13 +21,14 @@
 - [x] Got many INF values, the cause is likely the usage of multi-cores, but reason is still unknown.** 
 ## Week 28
 ### 07/20/2025
-- [ ] The sat-download script does not work, due to empty folders of the source link. Changed to download directly from  [LPCLOUD of NASA EARTHDATA](https://search.earthdata.nasa.gov/search?q=C2343111356-LPCLOUD)
-
+- [x] The sat-download script does not work, due to empty folders of the source link. Changed to download directly from  [LPCLOUD of NASA EARTHDATA](https://search.earthdata.nasa.gov/search?q=C2343111356-LPCLOUD)
+### 07/21/2025
+- [ ] Make parallel folders of vprm-prediction baslandcover 2016 and 2019 
 > 面对信仰，纵身一跃
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU2MDUzODMsMTU1MzIzNjQzMSwtMTg4Nj
-I0OTcwNSwyODg2ODc4MzAsLTEyOTEzMTQ5NjgsMTc2NTQ0MDIw
-OCwxMjMxMjE4MDM0LC0xNzI3MzI3OTc3LDEwNzU1MTI1MjIsNj
-I4NTM4MjQzXX0=
+eyJoaXN0b3J5IjpbLTEzNjg3NjY1NDYsMTU1MzIzNjQzMSwtMT
+g4NjI0OTcwNSwyODg2ODc4MzAsLTEyOTEzMTQ5NjgsMTc2NTQ0
+MDIwOCwxMjMxMjE4MDM0LC0xNzI3MzI3OTc3LDEwNzU1MTI1Mj
+IsNjI4NTM4MjQzXX0=
 -->
