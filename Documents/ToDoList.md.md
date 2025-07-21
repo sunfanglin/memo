@@ -27,11 +27,11 @@
 - [ ] Make parallel folders of vprm-prediction based on landcover 2016 and 2019 
 - [ ] Clip MODIS images of year 2015-2018
 - [ ] Run the vprm-prediction of year 2015-2018
-> 面对信仰，纵身一跃
+> 面
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk1NDQ3Mjc2LDE1NTMyMzY0MzEsLTE4OD
-YyNDk3MDUsMjg4Njg3ODMwLC0xMjkxMzE0OTY4LDE3NjU0NDAy
-MDgsMTIzMTIxODAzNCwtMTcyNzMyNzk3NywxMDc1NTEyNTIyLD
-YyODUzODI0M119
+eyJoaXN0b3J5IjpbNzk0MDA2ODU3LDg5NTQ0NzI3NiwxNTUzMj
+M2NDMxLC0xODg2MjQ5NzA1LDI4ODY4NzgzMCwtMTI5MTMxNDk2
+OCwxNzY1NDQwMjA4LDEyMzEyMTgwMzQsLTE3MjczMjc5NzcsMT
+A3NTUxMjUyMiw2Mjg1MzgyNDNdfQ==
 -->
