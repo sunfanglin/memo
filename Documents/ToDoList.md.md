@@ -29,14 +29,15 @@
 - [ ] Run the vprm-prediction of year 2015-2018
 ### 07/22/2025
 - [ ] Check pyVPRM_examples out folder, if the data is based on landcover 2019.  
-
+### 07/25/2025
+- [ ] Make a shapefile of no-photovoltaic area. The 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MzIzMDkyNSwtMTU0ODExNDAyNywtMT
-I2MDI5OTUzOSw4OTU0NDcyNzYsMTU1MzIzNjQzMSwtMTg4NjI0
-OTcwNSwyODg2ODc4MzAsLTEyOTEzMTQ5NjgsMTc2NTQ0MDIwOC
-wxMjMxMjE4MDM0LC0xNzI3MzI3OTc3LDEwNzU1MTI1MjIsNjI4
-NTM4MjQzXX0=
+eyJoaXN0b3J5IjpbLTMxMzU3NzEzLDE0OTMyMzA5MjUsLTE1ND
+gxMTQwMjcsLTEyNjAyOTk1MzksODk1NDQ3Mjc2LDE1NTMyMzY0
+MzEsLTE4ODYyNDk3MDUsMjg4Njg3ODMwLC0xMjkxMzE0OTY4LD
+E3NjU0NDAyMDgsMTIzMTIxODAzNCwtMTcyNzMyNzk3NywxMDc1
+NTEyNTIyLDYyODUzODI0M119
 -->
