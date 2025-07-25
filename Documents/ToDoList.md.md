@@ -24,20 +24,20 @@
 - [x] The sat-download script does not work, due to empty folders of the source link. Changed to download directly from  [LPCLOUD of NASA EARTHDATA](https://search.earthdata.nasa.gov/search?q=C2343111356-LPCLOUD)
 - [x] Make a github repo of scripts dealing with pyVPRM inputs and outputs. [My pyVPRM scripts](https://github.com/sunfanglin/pyVPRM_examples)
 ### 07/21/2025
-- [ ] Make parallel folders of vprm-prediction based on landcover 2016 and 2019 
+- [x] Make parallel folders of vprm-prediction based on landcover 2016 and 2019 
 - [x] Clip MODIS images of year 2015-2018
-- [ ] Run the vprm-prediction of year 2015-2018
+- [x] Run the vprm-prediction of year 2015-2018
 ### 07/22/2025
-- [ ] Check pyVPRM_examples out folder, if the data is based on landcover 2019.  
+- [x] Check pyVPRM_examples out folder, if the data is based on landcover 2019.  
 ### 07/25/2025
-- [ ] Make a shapefile of no-photovoltaic area. The 
+- [x] Make a shapefile of no-photovoltaic area. The area is 2099 km2.
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMzU3NzEzLDE0OTMyMzA5MjUsLTE1ND
-gxMTQwMjcsLTEyNjAyOTk1MzksODk1NDQ3Mjc2LDE1NTMyMzY0
-MzEsLTE4ODYyNDk3MDUsMjg4Njg3ODMwLC0xMjkxMzE0OTY4LD
-E3NjU0NDAyMDgsMTIzMTIxODAzNCwtMTcyNzMyNzk3NywxMDc1
-NTEyNTIyLDYyODUzODI0M119
+eyJoaXN0b3J5IjpbMTUzMDIyNDU2OCwxNDkzMjMwOTI1LC0xNT
+Q4MTE0MDI3LC0xMjYwMjk5NTM5LDg5NTQ0NzI3NiwxNTUzMjM2
+NDMxLC0xODg2MjQ5NzA1LDI4ODY4NzgzMCwtMTI5MTMxNDk2OC
+wxNzY1NDQwMjA4LDEyMzEyMTgwMzQsLTE3MjczMjc5NzcsMTA3
+NTUxMjUyMiw2Mjg1MzgyNDNdfQ==
 -->
