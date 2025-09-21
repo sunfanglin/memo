@@ -18,11 +18,11 @@ The full process:
 
 `wget https://ssd.mathworks.com/supportfiles/downloads/R2018a/deployment_files/R2018a/installers/glnxa64/MCR_R2018a_glnxa64_installer.zip`
 
-unzip MCR_R2018a_glnxa64_installer.zip -d /tmp/mcr_install && \
-
-/tmp/mcr_install/install -mode silent -destinationFolder /usr/local/MATLAB/MATLAB_Runtime/v94
+`unzip MCR_R2018a_glnxa64_installer.zip -d /tmp/mcr_install`
+`/tmp/mcr_install/install -mode silent -destinationFolder /usr/local/MATLAB/MATLAB_Runtime/v94`
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMwOTEzNzIxLC0xODk2MzMyMzYwXX0=
+eyJoaXN0b3J5IjpbLTIxMzE4NTIzOTEsLTE4OTYzMzIzNjBdfQ
+==
 -->
