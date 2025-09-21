@@ -6,9 +6,10 @@
 - 结合卫星数据，使用 pyVPRM 测算所有站点 vprm 计算参数。
 
 结合 ONEFlux 和 pyVPRM
-
+实地调查，仪器安装状态，地表情况
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5Nzc0NzAyNSwtNzQzNTI0MTA2XX0=
+eyJoaXN0b3J5IjpbMTk1ODMzNTg5OCwxNjk3NzQ3MDI1LC03ND
+M1MjQxMDZdfQ==
 -->
