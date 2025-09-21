@@ -1,10 +1,11 @@
-青藏高原通量网：
-收集
+##青藏高原通量网：
+- 收集高原上涡动观测数据，使用ONEFlux进行标准化评估，建立数据集；
+- 使用pyVPRM测算所以站点vprm计算参数。
 
 结合ONEFlux和pyVPRM
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODcwOTAxMDBdfQ==
+eyJoaXN0b3J5IjpbLTE2NjQ3ODUwMzRdfQ==
 -->
