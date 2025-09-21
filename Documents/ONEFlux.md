@@ -13,7 +13,16 @@ The full process:
   `python runoneflux.py all "/data" US-ARc "US-ARc_sample_input" 2005 2006 -l fluxnet_pipeline_US-ARc.log --mcr /usr/local/matlab/v94/ --recint hh --era-fy 2000 --era-ly 2006`
 
 
+## Appendix
+- Install MATLAB Compiler Runtime (MCR) 2018a (version 9.4)
+
+`wget https://ssd.mathworks.com/supportfiles/downloads/R2018a/deployment_files/R2018a/installers/glnxa64/MCR_R2018a_glnxa64_installer.zip`
+
+unzip MCR_R2018a_glnxa64_installer.zip -d /tmp/mcr_install && \
+
+/tmp/mcr_install/install -mode silent -destinationFolder /usr/local/MATLAB/MATLAB_Runtime/v94
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNTg5NjA0LC0xODk2MzMyMzYwXX0=
+eyJoaXN0b3J5IjpbMzMwOTEzNzIxLC0xODk2MzMyMzYwXX0=
 -->
