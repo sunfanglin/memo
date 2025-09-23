@@ -1,4 +1,4 @@
-
+# 基于标准化后藏北高原 CO2 通量数据的标准化的 vprm 参数确定
 ## 青藏高原通量网：
 - 收集高原上涡动观测数据，使用 ONEFlux 进行标准化评估，建立数据集；
 -- 质量控制；
@@ -20,6 +20,6 @@ pyVRPM 就是使用 oneflux 的输出来确定植被呼吸光合过程的计算�
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTIxMDQzNjIsLTUzMjM3NTM1NiwxOT
-U4MzM1ODk4LDE2OTc3NDcwMjUsLTc0MzUyNDEwNl19
+eyJoaXN0b3J5IjpbLTUzNTU2Nzk3OCwtNTMyMzc1MzU2LDE5NT
+gzMzU4OTgsMTY5Nzc0NzAyNSwtNzQzNTI0MTA2XX0=
 -->
