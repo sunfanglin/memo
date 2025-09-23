@@ -9,10 +9,10 @@
 实地调查，仪器安装状态，地表情况
 
 一方面数据堆积如山，另一方面，应用者无数据可用。
-原因是
+原因是，数据碎片化，数据观测者没有精力完成数据质量和调用性的标准化和调用
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDM4OTQ0NDIsMTk1ODMzNTg5OCwxNj
+eyJoaXN0b3J5IjpbLTE3NzM1NTQxMTUsMTk1ODMzNTg5OCwxNj
 k3NzQ3MDI1LC03NDM1MjQxMDZdfQ==
 -->
