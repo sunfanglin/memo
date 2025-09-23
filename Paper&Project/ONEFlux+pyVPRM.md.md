@@ -15,8 +15,10 @@
 
 pyVRPM 就是使用 oneflux 的输出来确定植被呼吸光合过程的计算参数。
 
+传统的确定过程繁琐，可重复性差。
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MDI2Mjc0OCwxOTU4MzM1ODk4LDE2OT
+eyJoaXN0b3J5IjpbLTUzMjM3NTM1NiwxOTU4MzM1ODk4LDE2OT
 c3NDcwMjUsLTc0MzUyNDEwNl19
 -->
