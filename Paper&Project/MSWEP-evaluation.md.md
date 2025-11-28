@@ -1,9 +1,11 @@
 ## Intro.
 ## Data.
-## 
+## Results.
+### General comparation between Past and Past_nogauge
+- Whole year precipita 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA1NDI3NTM0XX0=
+eyJoaXN0b3J5IjpbMzAwNzQyNTM2XX0=
 -->
