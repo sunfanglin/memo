@@ -16,8 +16,11 @@ ImportError: libcudnn.so.9: cannot open shared object file: No such file or dire
 (skyrim3) ⬢  fedora ➜  skyrim2 pip install jaxlib==0.4.26+cuda12.cudnn89 -f https://storage.googleapis.com/jax-releases/jax_releases.html --force-reinstall
 Looking in links: https://storage.googleapis.com/jax-releases/jax_releases.html
 
+ERROR: No matching distribution found for jaxlib==0.4.26+cuda12.cudnn89
+(skyrim3) ⬢  fedora ➜  skyrim2 pip uninstall -y jax jaxlib jax-cuda12-plugin jax-cuda12-pjrt  &&
+pip install "jax[cuda12_pip]==0.4.26" -f https://storage.googleapis.com/jax-releases/jax_cuda_releases.html --force-reinstall
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTc0ODA1MjMsLTE2MDQ2NzQyMjRdfQ
-==
+eyJoaXN0b3J5IjpbMzkxNzQwNzc4LC0xNjA0Njc0MjI0XX0=
 -->
