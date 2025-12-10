@@ -1,8 +1,8 @@
 ## Installation
+- ModuleNotFoundError: No module named 'numpy.dtypes'
 ```bash
-ModuleNotFoundError: No module named 'numpy.dtypes'
 (skyrim3) ⬢  fedora ➜  skyrim2 pip install "numpy>=1.26.4,<2.0" --upgrade
-
+```
 ModuleNotFoundError: No module named 'ruamel'
 (skyrim3) ⬢  fedora ➜  skyrim2 pip install ruamel.yaml
 
@@ -49,14 +49,15 @@ ERROR: No matching distribution found for jaxlib<=0.4.32,>=0.4.32
 
 ModuleNotFoundError: No module named 'haiku'
 (skyrim3) ⬢  fedora ➜  skyrim2 pip install --upgrade dm-haiku flax
-``
+```
 ## Modified files
+```bash
 cp ./modified/graphcast.py /home/fanglin/miniforge3/envs/skyrim3/lib/python3.10/site-packages/earth2mip/networks/graphcast.py
 cp ./modified/casting.py /home/fanglin/miniforge3/envs/skyrim3/lib/python3.10/site-packages/graphcast/casting.py
 cp ./modified/common.py ~/miniforge3/envs/skyrim3/lib/python3.10/site-packages/skyrim/common.py
-
+```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MDQ2MDc2NiwtNzIzNTY0ODA3LC0xNj
-A0Njc0MjI0XX0=
+eyJoaXN0b3J5IjpbNzAxNDkxODM1LC03MjM1NjQ4MDcsLTE2MD
+Q2NzQyMjRdfQ==
 -->
