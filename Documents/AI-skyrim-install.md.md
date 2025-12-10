@@ -7,9 +7,12 @@ ModuleNotFoundError: No module named 'ruamel'
 (skyrim3) ⬢  fedora ➜  skyrim2 pip install ruamel.yaml
 
 ImportError: cannot import name 'core' from 'jax.extend' (/home/fanglin/miniforge3/envs/skyrim3/lib/python3.10/site-packages/jax/extend/__init__.py)
+
 (skyrim3) ⬢  fedora ➜  skyrim2 pip uninstall -y jax jaxlib  &&
 pip install "jax[cuda12]"==0.4.26 -f https://storage.googleapis.com/jax-releases/jax_releases.html
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDQ2NzQyMjRdfQ==
+eyJoaXN0b3J5IjpbLTE1MTUzNTIwODQsLTE2MDQ2NzQyMjRdfQ
+==
 -->
