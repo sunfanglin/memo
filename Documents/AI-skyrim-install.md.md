@@ -33,24 +33,27 @@ pip install "jax[cuda12_pip]==0.4.26" -f https://storage.googleapis.com/jax-rele
 ```bash
 (skyrim3) ⬢  fedora ➜  skyrim2 pip uninstall -y torch torchvision torchaudio jax jaxlib nvidia-* dm-haiku earth2mip 2>/dev/null || true
 (skyrim3) ⬢  fedora ➜  skyrim2 pip cache purge
-Files removed: 1858 (12281.6 MB)
 (skyrim3) ⬢  fedora ➜  skyrim2 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu126
 (skyrim3) ⬢  fedora ➜  skyrim2 pip install "jax[cuda12]"==0.4.26 -f https://storage.googleapis.com/jax-releases/jax_releases.html --force-reinstall --no-deps
-
-AttributeError: module 'jax.extend.core' has no attribute 'JaxprEqn'
+```
+- AttributeError: module 'jax.extend.core' has no attribute 'JaxprEqn'
+```bash
 (skyrim3) ⬢  fedora ➜  skyrim2 pip install "dm-haiku==0.0.12" --force-reinstall
-
-AttributeError: module 'jax.interpreters.xla' has no attribute 'xe'
+```
+-AttributeError: module 'jax.interpreters.xla' has no attribute 'xe'
+```bash
 (skyrim3) ⬢  fedora ➜  skyrim2 pip install --upgrade "dm-haiku>=0.0.13" --force-reinstall
-
-jaxlib._jax.XlaRuntimeError: INVALID_ARGUMENT: DLPack tensor is on GPU, but no GPU backend was provided.
+```
+- jaxlib._jax.XlaRuntimeError: INVALID_ARGUMENT: DLPack tensor is on GPU, but no GPU backend was provided.
+```bash
 (skyrim3) ⬢  fedora ➜  skyrim2 pip uninstall -y jax jaxlib jax-cuda12-plugin jax-cuda12-pjrt  &&
 pip install "jax[cuda12]"==0.4.32 -f https://storage.googleapis.com/jax-releases/jax_cuda_releases.html --force-reinstall --no-cache-dir
-
-ERROR: No matching distribution found for jaxlib<=0.4.32,>=0.4.32
-(skyrim3) ⬢  fedora ➜  skyrim2 pip uninstall -y jax jaxlib jax-cuda12-plugin jax-cuda12-pjrt dm-haiku flax && pip install --upgrade jax jaxlib "jax-cuda12-plugin[with-cuda]" jax-cuda12-pjrt
-
-ModuleNotFoundError: No module named 'haiku'
+```
+- ERROR: No matching distribution found for jaxlib<=0.4.32,>=0.4.32
+```bash(skyrim3) ⬢  fedora ➜  skyrim2 pip uninstall -y jax jaxlib jax-cuda12-plugin jax-cuda12-pjrt dm-haiku flax && pip install --upgrade jax jaxlib "jax-cuda12-plugin[with-cuda]" jax-cuda12-pjrt
+```
+- ModuleNotFoundError: No module named 'haiku'
+```bash
 (skyrim3) ⬢  fedora ➜  skyrim2 pip install --upgrade dm-haiku flax
 ```
 ## Modified files
@@ -61,6 +64,6 @@ cp ./modified/common.py ~/miniforge3/envs/skyrim3/lib/python3.10/site-packages/s
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NTcwMDk0MCwtNzIzNTY0ODA3LC0xNj
+eyJoaXN0b3J5IjpbMTEwMDI2MDMwNiwtNzIzNTY0ODA3LC0xNj
 A0Njc0MjI0XX0=
 -->
