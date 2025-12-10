@@ -37,9 +37,10 @@ Files removed: 1858 (12281.6 MB)
 AttributeError: module 'jax.extend.core' has no attribute 'JaxprEqn'
 (skyrim3) ⬢  fedora ➜  skyrim2 pip install "dm-haiku==0.0.12" --force-reinstall
 
+AttributeError: module 'jax.interpreters.xla' has no attribute 'xe'
+(skyrim3) ⬢  fedora ➜  skyrim2 pip install --upgrade "dm-haiku>=0.0.13" --force-reinstall
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzQzNTc2MDcsLTE2MDQ2NzQyMjRdfQ
-==
+eyJoaXN0b3J5IjpbODU2NTEwMTAsLTE2MDQ2NzQyMjRdfQ==
 -->
