@@ -44,7 +44,10 @@ jaxlib._jax.XlaRuntimeError: INVALID_ARGUMENT: DLPack tensor is on GPU, but no G
 (skyrim3) ⬢  fedora ➜  skyrim2 pip uninstall -y jax jaxlib jax-cuda12-plugin jax-cuda12-pjrt  &&
 pip install "jax[cuda12]"==0.4.32 -f https://storage.googleapis.com/jax-releases/jax_cuda_releases.html --force-reinstall --no-cache-dir
 
+ERROR: No matching distribution found for jaxlib<=0.4.32,>=0.4.32
+(skyrim3) ⬢  fedora ➜  skyrim2 pip uninstall -y jax jaxlib jax-cuda12-plugin jax-cuda12-pjrt dm-haiku flax && pip install --upgrade jax jaxlib "jax-cuda12-plugin[with-cuda]" jax-cuda12-pjrt
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMyMTY0NiwtMTYwNDY3NDIyNF19
+eyJoaXN0b3J5IjpbLTM5MzkxNDE4MCwtMTYwNDY3NDIyNF19
 -->
