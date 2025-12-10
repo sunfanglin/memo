@@ -34,10 +34,12 @@ Files removed: 1858 (12281.6 MB)
 (skyrim3) ⬢  fedora ➜  skyrim2 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu126
 (skyrim3) ⬢  fedora ➜  skyrim2 pip install "jax[cuda12]"==0.4.26 -f https://storage.googleapis.com/jax-releases/jax_releases.html --force-reinstall --no-deps
 
+AttributeError: module 'jax.extend.core' has no attribute 'JaxprEqn'
+(skyrim3) ⬢  fedora ➜  skyrim2 pip install "dm-haiku==0.0.12" --force-reinstall
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjM3ODYyMjEsLTE2MDQ2NzQyMjRdfQ
+eyJoaXN0b3J5IjpbLTExMzQzNTc2MDcsLTE2MDQ2NzQyMjRdfQ
 ==
 -->
