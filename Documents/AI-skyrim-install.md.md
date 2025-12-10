@@ -47,7 +47,10 @@ pip install "jax[cuda12]"==0.4.32 -f https://storage.googleapis.com/jax-releases
 ERROR: No matching distribution found for jaxlib<=0.4.32,>=0.4.32
 (skyrim3) ⬢  fedora ➜  skyrim2 pip uninstall -y jax jaxlib jax-cuda12-plugin jax-cuda12-pjrt dm-haiku flax && pip install --upgrade jax jaxlib "jax-cuda12-plugin[with-cuda]" jax-cuda12-pjrt
 
+ModuleNotFoundError: No module named 'haiku'
+(skyrim3) ⬢  fedora ➜  skyrim2 pip install --upgrade dm-haiku flax
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MzkxNDE4MCwtMTYwNDY3NDIyNF19
+eyJoaXN0b3J5IjpbLTcyMzU2NDgwNywtMTYwNDY3NDIyNF19
 -->
