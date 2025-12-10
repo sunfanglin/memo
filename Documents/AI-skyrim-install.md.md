@@ -50,7 +50,8 @@ pip install "jax[cuda12_pip]==0.4.26" -f https://storage.googleapis.com/jax-rele
 pip install "jax[cuda12]"==0.4.32 -f https://storage.googleapis.com/jax-releases/jax_cuda_releases.html --force-reinstall --no-cache-dir
 ```
 - ERROR: No matching distribution found for jaxlib<=0.4.32,>=0.4.32
-```bash(skyrim3) ⬢  fedora ➜  skyrim2 pip uninstall -y jax jaxlib jax-cuda12-plugin jax-cuda12-pjrt dm-haiku flax && pip install --upgrade jax jaxlib "jax-cuda12-plugin[with-cuda]" jax-cuda12-pjrt
+```bash
+(skyrim3) ⬢  fedora ➜  skyrim2 pip uninstall -y jax jaxlib jax-cuda12-plugin jax-cuda12-pjrt dm-haiku flax && pip install --upgrade jax jaxlib "jax-cuda12-plugin[with-cuda]" jax-cuda12-pjrt
 ```
 - ModuleNotFoundError: No module named 'haiku'
 ```bash
@@ -64,6 +65,6 @@ cp ./modified/common.py ~/miniforge3/envs/skyrim3/lib/python3.10/site-packages/s
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMDI2MDMwNiwtNzIzNTY0ODA3LC0xNj
-A0Njc0MjI0XX0=
+eyJoaXN0b3J5IjpbLTExOTg4NDQwNjAsMTEwMDI2MDMwNiwtNz
+IzNTY0ODA3LC0xNjA0Njc0MjI0XX0=
 -->
