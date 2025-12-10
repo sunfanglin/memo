@@ -32,7 +32,12 @@ zsh: no matches found: nvidia-*
 (skyrim3) ⬢  fedora ➜  skyrim2 pip cache purge
 Files removed: 1858 (12281.6 MB)
 (skyrim3) ⬢  fedora ➜  skyrim2 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu126
+(skyrim3) ⬢  fedora ➜  skyrim2 pip install "jax[cuda12]"==0.4.26 -f https://storage.googleapis.com/jax-releases/jax_releases.html --force-reinstall --no-deps
+
+
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTU5MDc4LC0xNjA0Njc0MjI0XX0=
+eyJoaXN0b3J5IjpbLTE3NjM3ODYyMjEsLTE2MDQ2NzQyMjRdfQ
+==
 -->
