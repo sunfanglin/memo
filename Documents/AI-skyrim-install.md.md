@@ -3,20 +3,22 @@
 ```bash
 (skyrim3) ⬢  fedora ➜  skyrim2 pip install "numpy>=1.26.4,<2.0" --upgrade
 ```
-ModuleNotFoundError: No module named 'ruamel'
+- ModuleNotFoundError: No module named 'ruamel'
+```bash
 (skyrim3) ⬢  fedora ➜  skyrim2 pip install ruamel.yaml
-
-ImportError: cannot import name 'core' from 'jax.extend' (/home/fanglin/miniforge3/envs/skyrim3/lib/python3.10/site-packages/jax/extend/__init__.py)
-
+```
+- ImportError: cannot import name 'core' from 'jax.extend' (/home/fanglin/miniforge3/envs/skyrim3/lib/python3.10/site-packages/jax/extend/__init__.py)
+```bash
 (skyrim3) ⬢  fedora ➜  skyrim2 pip uninstall -y jax jaxlib  &&
 pip install "jax[cuda12]"==0.4.26 -f https://storage.googleapis.com/jax-releases/jax_releases.html
-
-ImportError: libcudnn.so.9: cannot open shared object file: No such file or directory
-
+```
+- ImportError: libcudnn.so.9: cannot open shared object file: No such file or directory
+```bash
 (skyrim3) ⬢  fedora ➜  skyrim2 pip install jaxlib==0.4.26+cuda12.cudnn89 -f https://storage.googleapis.com/jax-releases/jax_releases.html --force-reinstall
 Looking in links: https://storage.googleapis.com/jax-releases/jax_releases.html
-
-ERROR: No matching distribution found for jaxlib==0.4.26+cuda12.cudnn89
+```
+- ERROR: No matching distribution found for jaxlib==0.4.26+cuda12.cudnn89
+-`
 (skyrim3) ⬢  fedora ➜  skyrim2 pip uninstall -y jax jaxlib jax-cuda12-plugin jax-cuda12-pjrt  &&
 pip install "jax[cuda12_pip]==0.4.26" -f https://storage.googleapis.com/jax-releases/jax_cuda_releases.html --force-reinstall
 
@@ -58,6 +60,6 @@ cp ./modified/common.py ~/miniforge3/envs/skyrim3/lib/python3.10/site-packages/s
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAxNDkxODM1LC03MjM1NjQ4MDcsLTE2MD
+eyJoaXN0b3J5IjpbNDA2Mjg0MDI4LC03MjM1NjQ4MDcsLTE2MD
 Q2NzQyMjRdfQ==
 -->
