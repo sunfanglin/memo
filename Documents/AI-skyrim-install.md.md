@@ -40,7 +40,11 @@ AttributeError: module 'jax.extend.core' has no attribute 'JaxprEqn'
 AttributeError: module 'jax.interpreters.xla' has no attribute 'xe'
 (skyrim3) ⬢  fedora ➜  skyrim2 pip install --upgrade "dm-haiku>=0.0.13" --force-reinstall
 
+jaxlib._jax.XlaRuntimeError: INVALID_ARGUMENT: DLPack tensor is on GPU, but no GPU backend was provided.
+(skyrim3) ⬢  fedora ➜  skyrim2 pip uninstall -y jax jaxlib jax-cuda12-plugin jax-cuda12-pjrt  &&
+pip install "jax[cuda12]"==0.4.32 -f https://storage.googleapis.com/jax-releases/jax_cuda_releases.html --force-reinstall --no-cache-dir
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU2NTEwMTAsLTE2MDQ2NzQyMjRdfQ==
+eyJoaXN0b3J5IjpbNzMyMTY0NiwtMTYwNDY3NDIyNF19
 -->
