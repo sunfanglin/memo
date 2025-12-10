@@ -49,12 +49,14 @@ ERROR: No matching distribution found for jaxlib<=0.4.32,>=0.4.32
 
 ModuleNotFoundError: No module named 'haiku'
 (skyrim3) ⬢  fedora ➜  skyrim2 pip install --upgrade dm-haiku flax
-
+``
+## Modified files
 cp ./modified/graphcast.py /home/fanglin/miniforge3/envs/skyrim3/lib/python3.10/site-packages/earth2mip/networks/graphcast.py
-
+cp ./modified/casting.py /home/fanglin/miniforge3/envs/skyrim3/lib/python3.10/site-packages/graphcast/casting.py
+cp ./modified/common.py ~/miniforge3/envs/skyrim3/lib/python3.10/site-packages/skyrim/common.py
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MTgxNDc5NCwtNzIzNTY0ODA3LC0xNj
+eyJoaXN0b3J5IjpbMTQ5MDQ2MDc2NiwtNzIzNTY0ODA3LC0xNj
 A0Njc0MjI0XX0=
 -->
