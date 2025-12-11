@@ -57,14 +57,14 @@ pip install "jax[cuda12]"==0.4.32 -f https://storage.googleapis.com/jax-releases
 ```bash
 (skyrim3) ⬢  fedora ➜  skyrim2 pip install --upgrade dm-haiku flax
 ```
-## Modified files
+## Copy modified files
 ```bash
-cp ./modified/graphcast.py /home/fanglin/miniforge3/envs/skyrim3/lib/python3.10/site-packages/earth2mip/networks/graphcast.py
-cp ./modified/casting.py /home/fanglin/miniforge3/envs/skyrim3/lib/python3.10/site-packages/graphcast/casting.py
+cp ./modified/graphcast.py ~/miniforge3/envs/skyrim3/lib/python3.10/site-packages/earth2mip/networks/graphcast.py
+cp ./modified/casting.py ~/miniforge3/envs/skyrim3/lib/python3.10/site-packages/graphcast/casting.py
 cp ./modified/common.py ~/miniforge3/envs/skyrim3/lib/python3.10/site-packages/skyrim/common.py
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTg4NDQwNjAsMTEwMDI2MDMwNiwtNz
-IzNTY0ODA3LC0xNjA0Njc0MjI0XX0=
+eyJoaXN0b3J5IjpbLTEzNjY0ODM1MzcsLTExOTg4NDQwNjAsMT
+EwMDI2MDMwNiwtNzIzNTY0ODA3LC0xNjA0Njc0MjI0XX0=
 -->
