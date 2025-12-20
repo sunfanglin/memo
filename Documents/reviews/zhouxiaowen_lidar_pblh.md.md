@@ -13,13 +13,13 @@
 ## 内容
 ### Section 4.1：
 - 晴空案例：用气象站的数据讨论再分析数据的变化情况，尺度上是否匹配存疑，反而 Lidar 结果在上午缺少变化，没有给出解释。
-- 查看晴空个例早晨的风速廓线
+- 查看晴空个例早晨的风速廓线，看能不能确定边界层高度
 - 一些写法: **9 November 2023 --> November 9, 2023**
 - 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzQ0NjI0OTUsNzE2MTM2OTI5LC0xOT
-YwOTYxOTEsLTk1ODE1ODgxOSwtMzMxNjY1OTgxLDE0MDI4MjAx
-NjMsMTYwNTU0NTcwMiwtNzcyMzgzNDQsNzU5NDcyNTA2LC00OD
-I5ODk0MjVdfQ==
+eyJoaXN0b3J5IjpbMTQ2NDA0MDQ3OCwtMTkzNDQ2MjQ5NSw3MT
+YxMzY5MjksLTE5NjA5NjE5MSwtOTU4MTU4ODE5LC0zMzE2NjU5
+ODEsMTQwMjgyMDE2MywxNjA1NTQ1NzAyLC03NzIzODM0NCw3NT
+k0NzI1MDYsLTQ4Mjk4OTQyNV19
 -->
