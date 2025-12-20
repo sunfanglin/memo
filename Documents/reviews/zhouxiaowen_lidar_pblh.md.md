@@ -10,12 +10,13 @@
 - 
 ## 结构
 - Intro 部分，减少高原 PBL 独特性的陈述，调整一部分 Methods 的内容到 Introduction, 作为反演方法的调研，引出本文的主要工作，包括为什么尝试新的混合方法。因为论文主题是反演方法和结果对比评估，不是针对珠峰 PBL 特点的分析。
+- Section 4.1：晴空案例：
 - 一些写法: **9 November 2023 --> November 9, 2023**
 - 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNDI4ODIzMSw3MTYxMzY5MjksLTE5Nj
-A5NjE5MSwtOTU4MTU4ODE5LC0zMzE2NjU5ODEsMTQwMjgyMDE2
-MywxNjA1NTQ1NzAyLC03NzIzODM0NCw3NTk0NzI1MDYsLTQ4Mj
-k4OTQyNV19
+eyJoaXN0b3J5IjpbLTE3NzQxMTAwMTMsNzE2MTM2OTI5LC0xOT
+YwOTYxOTEsLTk1ODE1ODgxOSwtMzMxNjY1OTgxLDE0MDI4MjAx
+NjMsMTYwNTU0NTcwMiwtNzcyMzgzNDQsNzU5NDcyNTA2LC00OD
+I5ODk0MjVdfQ==
 -->
