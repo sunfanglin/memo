@@ -3,10 +3,10 @@
 - 图 4 样式参考审稿文章的图 7；
 - 其它图尽量做成黑白：图 2-右图、图 3、图 5-左、6-左、7-左、图 8、9（点线）；
 ## 结构
-- Intro 部分，减少高原 PBL 独特性的陈述，增加反演方法的调研，引出本文的主要工作。因为论文主题是反演方法和结果对比评估，不是针对珠峰 PBL 特点的分析。
+- Intro 部分，减少高原 PBL 独特性的陈述，增加反演方法的调研，引出本文的主要工作，包括为什么使用新的混合方法。因为论文主题是反演方法和结果对比评估，不是针对珠峰 PBL 特点的分析。
 - 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NTY1NDk1NCwxNjA1NTQ1NzAyLC03Nz
+eyJoaXN0b3J5IjpbMTQwMjgyMDE2MywxNjA1NTQ1NzAyLC03Nz
 IzODM0NCw3NTk0NzI1MDYsLTQ4Mjk4OTQyNV19
 -->
