@@ -12,12 +12,13 @@
 - Intro 部分，调整一部分 Methods 的内容到 Introduction, 作为反演方法的调研，引出本文的主要工作，包括为什么尝试新的混合方法。
 ## 内容
 ### Section 4.1：
-- 晴空案例：用气象站的数据讨论再分析数据的变化情况，尺度上是否匹配存疑，而 Lidar 结果在上午缺少变化，没有给出解释。
+- 晴空案例：用气象站的数据讨论再分析数据的变化情况，尺度上是否匹配存疑，反而 Lidar 结果在上午缺少变化，没有给出解释。
+- 查看晴空个例早晨的风速廓线
 - 一些写法: **9 November 2023 --> November 9, 2023**
 - 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjYwMzM2MjYsNzE2MTM2OTI5LC0xOT
+eyJoaXN0b3J5IjpbLTE5MzQ0NjI0OTUsNzE2MTM2OTI5LC0xOT
 YwOTYxOTEsLTk1ODE1ODgxOSwtMzMxNjY1OTgxLDE0MDI4MjAx
 NjMsMTYwNTU0NTcwMiwtNzcyMzgzNDQsNzU5NDcyNTA2LC00OD
 I5ODk0MjVdfQ==
