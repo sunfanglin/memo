@@ -7,9 +7,10 @@
 ## 结构
 - Intro 部分，减少高原 PBL 独特性的陈述，调整一部分 Methods 的内容到 Introduction, 作为反演方法的调研，引出本文的主要工作，包括为什么尝试新的混合方法。因为论文主题是反演方法和结果对比评估，不是针对珠峰 PBL 特点的分析。
 - 
+- 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1ODE1ODgxOSwtMzMxNjY1OTgxLDE0MD
-I4MjAxNjMsMTYwNTU0NTcwMiwtNzcyMzgzNDQsNzU5NDcyNTA2
-LC00ODI5ODk0MjVdfQ==
+eyJoaXN0b3J5IjpbLTQ3MjY5NDM3NiwtOTU4MTU4ODE5LC0zMz
+E2NjU5ODEsMTQwMjgyMDE2MywxNjA1NTQ1NzAyLC03NzIzODM0
+NCw3NTk0NzI1MDYsLTQ4Mjk4OTQyNV19
 -->
