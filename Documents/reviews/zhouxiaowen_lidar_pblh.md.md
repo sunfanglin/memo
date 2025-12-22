@@ -10,6 +10,7 @@
 - 
 ## 结构
 - Intro 部分，调整一部分 Methods 的内容到 Introduction, 作为反演方法的调研，引出本文的主要工作，包括为什么尝试新的混合方法。
+- 方法
 ## 内容
 ### Section 4.1：
 - 晴空案例：用气象站的数据讨论再分析数据的变化情况，尺度上是否匹配存疑，反而 Lidar 结果在上午缺少变化，没有给出解释。
@@ -19,8 +20,8 @@
 - 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODU3MzI0MzAsLTE5MzQ0NjI0OTUsNz
-E2MTM2OTI5LC0xOTYwOTYxOTEsLTk1ODE1ODgxOSwtMzMxNjY1
-OTgxLDE0MDI4MjAxNjMsMTYwNTU0NTcwMiwtNzcyMzgzNDQsNz
-U5NDcyNTA2LC00ODI5ODk0MjVdfQ==
+eyJoaXN0b3J5IjpbLTk5NTgyMTU5LC0yMDg1NzMyNDMwLC0xOT
+M0NDYyNDk1LDcxNjEzNjkyOSwtMTk2MDk2MTkxLC05NTgxNTg4
+MTksLTMzMTY2NTk4MSwxNDAyODIwMTYzLDE2MDU1NDU3MDIsLT
+c3MjM4MzQ0LDc1OTQ3MjUwNiwtNDgyOTg5NDI1XX0=
 -->
