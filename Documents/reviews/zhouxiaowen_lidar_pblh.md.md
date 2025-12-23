@@ -15,15 +15,15 @@
 ### Section 4.1：
 - 晴空案例：用气象站的数据讨论再分析数据的变化情况，尺度上是否匹配存疑，反而 Lidar 结果在上午缺少变化，没有给出解释。
 - 查看晴空个例早晨的风速廓线，看能不能以此确定边界层高度
-- Figure 2: 
+- Figure 2: 选傍晚的例子不太合适，底部的逆温层已经形成
 ## 其它
 - 一些写法: **9 November 2023 --> November 9, 2023**
 - 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NjYzNzcsNTk3ODIzNDk2LDYwMDI1Mz
-UzNCwtMjA4NTczMjQzMCwtMTkzNDQ2MjQ5NSw3MTYxMzY5Mjks
-LTE5NjA5NjE5MSwtOTU4MTU4ODE5LC0zMzE2NjU5ODEsMTQwMj
-gyMDE2MywxNjA1NTQ1NzAyLC03NzIzODM0NCw3NTk0NzI1MDYs
-LTQ4Mjk4OTQyNV19
+eyJoaXN0b3J5IjpbMTg0Mjk1MzcwMiw1OTc4MjM0OTYsNjAwMj
+UzNTM0LC0yMDg1NzMyNDMwLC0xOTM0NDYyNDk1LDcxNjEzNjky
+OSwtMTk2MDk2MTkxLC05NTgxNTg4MTksLTMzMTY2NTk4MSwxND
+AyODIwMTYzLDE2MDU1NDU3MDIsLTc3MjM4MzQ0LDc1OTQ3MjUw
+NiwtNDgyOTg5NDI1XX0=
 -->
