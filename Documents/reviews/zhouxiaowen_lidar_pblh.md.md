@@ -5,7 +5,7 @@
 - 
 - 图 5、6、7风向线改成点，或对风向值加以处理
 - 图 5 左侧图用 a, b, c, 右侧d, e, f； 其它类似
-- 图里的时间换成 local time: （UTC+6）
+- 图里的时间换成 local time (UTC+6）
 - 图表的说明文字格式不够规范
 - 
 ## 结构
@@ -23,7 +23,7 @@
 - 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjcwMDkyNjAsLTE0NjUxNDcyMjksMT
+eyJoaXN0b3J5IjpbLTEwNjU1MDUxNDYsLTE0NjUxNDcyMjksMT
 g0Mjk1MzcwMiw1OTc4MjM0OTYsNjAwMjUzNTM0LC0yMDg1NzMy
 NDMwLC0xOTM0NDYyNDk1LDcxNjEzNjkyOSwtMTk2MDk2MTkxLC
 05NTgxNTg4MTksLTMzMTY2NTk4MSwxNDAyODIwMTYzLDE2MDU1
