@@ -11,6 +11,7 @@
 ## 结构
 - Intro 部分，调整一部分 Methods 的内容到 Introduction, 作为反演方法的调研，引出本文的主要工作，包括为什么尝试新的混合方法。
 - 反演方法：介绍 A 方法，B 方法，为什么 A+B？
+- 
 - 讨论部分：增加一段--复杂地形对数据比较的影响
 ## 内容
 ### Section 4.1：
@@ -24,10 +25,10 @@
 - 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MjMzNjkyMiwtMTQ2NTE0NzIyOSwxOD
-QyOTUzNzAyLDU5NzgyMzQ5Niw2MDAyNTM1MzQsLTIwODU3MzI0
-MzAsLTE5MzQ0NjI0OTUsNzE2MTM2OTI5LC0xOTYwOTYxOTEsLT
-k1ODE1ODgxOSwtMzMxNjY1OTgxLDE0MDI4MjAxNjMsMTYwNTU0
-NTcwMiwtNzcyMzgzNDQsNzU5NDcyNTA2LC00ODI5ODk0MjVdfQ
-==
+eyJoaXN0b3J5IjpbNTQ4MzgzMTg5LDIwNzIzMzY5MjIsLTE0Nj
+UxNDcyMjksMTg0Mjk1MzcwMiw1OTc4MjM0OTYsNjAwMjUzNTM0
+LC0yMDg1NzMyNDMwLC0xOTM0NDYyNDk1LDcxNjEzNjkyOSwtMT
+k2MDk2MTkxLC05NTgxNTg4MTksLTMzMTY2NTk4MSwxNDAyODIw
+MTYzLDE2MDU1NDU3MDIsLTc3MjM4MzQ0LDc1OTQ3MjUwNiwtND
+gyOTg5NDI1XX0=
 -->
