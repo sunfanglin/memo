@@ -11,7 +11,7 @@
 ## 结构
 - Intro 部分，调整一部分 Methods 的内容到 Introduction, 作为反演方法的调研，引出本文的主要工作，包括为什么尝试新的混合方法。
 - 反演方法：介绍 A 方法，B 方法，为什么 A+B？
-- 
+- Methods 部分，逻辑顺序再清晰一下，每段文字的首句应为本段的主旨，这样容易理清逻辑顺序
 - 讨论部分：增加一段--复杂地形对数据比较的影响
 ## 内容
 ### Section 4.1：
@@ -25,7 +25,7 @@
 - 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ4MzgzMTg5LDIwNzIzMzY5MjIsLTE0Nj
+eyJoaXN0b3J5IjpbNDQ5OTU2NzM2LDIwNzIzMzY5MjIsLTE0Nj
 UxNDcyMjksMTg0Mjk1MzcwMiw1OTc4MjM0OTYsNjAwMjUzNTM0
 LC0yMDg1NzMyNDMwLC0xOTM0NDYyNDk1LDcxNjEzNjkyOSwtMT
 k2MDk2MTkxLC05NTgxNTg4MTksLTMzMTY2NTk4MSwxNDAyODIw
