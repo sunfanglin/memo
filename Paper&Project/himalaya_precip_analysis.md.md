@@ -5,11 +5,12 @@
 - AI models
 ## Fields:
 - Precipitation daily ( -7 days to Oct 4);
-- Total column $q$;
-- winds at 500, 200 mb;
+- Total column $q$ (hourly or 3-hourly);
+- winds at 500, 200 mb (hourly or 3-hourly);
+- 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUzOTY5MzgwXX0=
+eyJoaXN0b3J5IjpbLTk1OTQ1NDI2NV19
 -->
