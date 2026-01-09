@@ -4,11 +4,12 @@
 - IFS HRES
 - AI models
 ## Fields:
+- Precipitation daily ( -7 days to Oct 4);
 - Total column $q$;
-- winds at 500, 200 mb 
+- winds at 500, 200 mb;
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwODQ5MzU1Nl19
+eyJoaXN0b3J5IjpbODUzOTY5MzgwXX0=
 -->
