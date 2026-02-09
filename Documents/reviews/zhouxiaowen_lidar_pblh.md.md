@@ -24,10 +24,11 @@
 - 阿里的结果：**超高边界层**
 - 
 ## 2026-02-09
-- sharp collapse: why does the 
+- **sharp collapse**: why does the PBLH decrease so quickly? Possible influence of the hill shaddow;
+- 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1OTg5MjI1Myw0NjI0MDkwNTIsMjA3Mj
+eyJoaXN0b3J5IjpbMTA1MDI2NTMxNSw0NjI0MDkwNTIsMjA3Mj
 MzNjkyMiwtMTQ2NTE0NzIyOSwxODQyOTUzNzAyLDU5NzgyMzQ5
 Niw2MDAyNTM1MzQsLTIwODU3MzI0MzAsLTE5MzQ0NjI0OTUsNz
 E2MTM2OTI5LC0xOTYwOTYxOTEsLTk1ODE1ODgxOSwtMzMxNjY1
