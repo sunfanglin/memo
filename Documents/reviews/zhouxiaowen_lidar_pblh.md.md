@@ -25,13 +25,14 @@
 - 
 ## 2026-02-09
 - **sharp collapse**: why does the PBLH decrease so quickly? Possible influence of the hill shaddow; Mechanism: In the late afternoon, when the sun is low in the western sky, shadows from surrounding hills or mountains cast over parts of the valley floor much earlier than over flat terrain.
+- L
 - 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MzgzMjkzMiwxMDUwMjY1MzE1LDQ2Mj
-QwOTA1MiwyMDcyMzM2OTIyLC0xNDY1MTQ3MjI5LDE4NDI5NTM3
-MDIsNTk3ODIzNDk2LDYwMDI1MzUzNCwtMjA4NTczMjQzMCwtMT
-kzNDQ2MjQ5NSw3MTYxMzY5MjksLTE5NjA5NjE5MSwtOTU4MTU4
-ODE5LC0zMzE2NjU5ODEsMTQwMjgyMDE2MywxNjA1NTQ1NzAyLC
-03NzIzODM0NCw3NTk0NzI1MDYsLTQ4Mjk4OTQyNV19
+eyJoaXN0b3J5IjpbNjE3MDA3NTgzLDEwNTAyNjUzMTUsNDYyND
+A5MDUyLDIwNzIzMzY5MjIsLTE0NjUxNDcyMjksMTg0Mjk1Mzcw
+Miw1OTc4MjM0OTYsNjAwMjUzNTM0LC0yMDg1NzMyNDMwLC0xOT
+M0NDYyNDk1LDcxNjEzNjkyOSwtMTk2MDk2MTkxLC05NTgxNTg4
+MTksLTMzMTY2NTk4MSwxNDAyODIwMTYzLDE2MDU1NDU3MDIsLT
+c3MjM4MzQ0LDc1OTQ3MjUwNiwtNDgyOTg5NDI1XX0=
 -->
