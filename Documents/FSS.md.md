@@ -190,7 +190,7 @@ using `print(obs.shape, fcst.shape)`.
 before running the python command.
 
 
-Prepare regional precipitation datasets for FSS analysis.
+## Prepare regional precipitation datasets for FSS analysis.
 ERA5 (reanalysis), ECMWF HRES (forecast/high-res), MSWEP (benchmark/merged
 precipitation).
 Differing spatial resolutions.
@@ -388,7 +388,7 @@ ERA5 $\to$ MSWEP |
 Lat/Lon |
 | **Time** | Hourly | Hourly | Daily | Resample all to common $\Delta t$ |
 
->>> Steps to interplote all data to the same as ERA5.
+## Steps to interpolate all data to the same grid as ERA5.
 Thinking...
 Interpolate all precipitation datasets (ERA5, ECMWF HRES, MSWEP) to the
 *lowest* common denominator: the **ERA5 resolution** ($\sim 0.25^\circ$).
@@ -563,5 +563,5 @@ dimension errors.
 >>> Send a message (/? for help)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MDc2ODY0NSwtOTgwOTc3MDExXX0=
+eyJoaXN0b3J5IjpbLTExMDE2OTM0NTIsLTk4MDk3NzAxMV19
 -->
