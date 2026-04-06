@@ -102,7 +102,100 @@ rain.
 **intensity and correlation**, and use **FSS** to evaluate the **spatial
 accuracy and resolution benefit**.
 
+To perform a complete evaluation (FSS, Taylor Diagrams, and General
+Statistics), you need a combination of **data processing libraries**,
+**specialized meteorological toolkits**, and **visualization packages**.
+
+Since you are on a **Linux machine within a Conda environment**, here are
+the best tools for each specific task:
+
+---
+
+### 1. For Data Preparation & Regridding
+Before any analysis, you must align your ERA5, HRES, and MSWEP data.
+
+*   **Xarray**: The "gold standard" for NetCDF data. It handles coordinates
+(lat/lon/time) and allows for easy interpolation.
+*   **xESMF**: The most powerful Python library for regridding. It is
+better than basic Xarray interpolation because it supports **conservative
+regridding** (essential for precipitation to ensure the total amount of
+rain is preserved).
+*   **CDO (Climate Data Operators)**: This is a command-line tool (not a
+Python library, but essential for Linux). It is significantly faster than
+Python for huge datasets.
+    *   *Example command to regrid HRES to ERA5:* `cdo
+remapbil,grid_era5.txt input_hres.nc output_hres_aligned.nc`
+
+### 2. For FSS (Spatial Skill)
+*   **`scores`**: The library you are already using. It is specifically
+designed for the FSS implementation.
+*   **Scikit-learn**: While it doesn't do FSS, it is useful for calculating
+the basic binary metrics (Precision, Recall, F1-Score) that underly the FSS
+logic.
+
+### 3. For Taylor Diagrams (Statistical Skill)
+Python does not have a "built-in" Taylor Diagram in Matplotlib, so you need
+a specialized wrapper.
+
+*   **`SkillMetrics`**: This is the most widely used Python package for
+creating professional Taylor Diagrams. It calculates the correlation and
+RMSE and plots them on the polar coordinate system automatically.
+    *   *Installation:* `pip install skill-metrics`
+*   **`PyTaylor`**: An alternative, though `SkillMetrics` is generally more
+common in recent literature.
+
+### 4. For General Stats & PDFs (Intensity/Bias)
+To check if your models are overestimating rain or missing extremes:
+
+*   **SciPy**: Use `scipy.stats` to calculate the Bias, Mean Absolute Error
+(MAE), and to perform normality tests on your precipitation distributions.
+*   **Matplotlib / Seaborn**: Use these for:
+    *   **PDFs (Probability Density Functions)**: To compare the "shape" of
+the precipitation distributions between ERA5, HRES, and MSWEP.
+    *   **Time-Series Plots**: To see how the models perform over a
+specific time window.
+    *   **Scatter Plots**: To check the 1:1 correlation between the
+forecast and the benchmark.
+
+---
+
+### Summary Mapping: Task $\rightarrow$ Tool
+
+| Task | Recommended Tool | Why? |
+| :--- | :--- | :--- |
+| **Open/Slice NetCDF** | `xarray` | Handles multidimensional metadata
+perfectly. |
+| **Regridding** | `xESMF` or `CDO` | Ensures spatial alignment; `CDO` is
+faster for big data. |
+| **Fractions Skill Score** | `scores` | Direct implementation of FSS. |
+| **Taylor Diagram** | `SkillMetrics` | Specialized polar plotting for
+RMSE/Corr/StdDev. |
+| **Precipitation PDFs** | `seaborn` / `matplotlib` | Best for visualizing
+distribution overlaps. |
+| **Bias/MAE/RMSE** | `numpy` / `scipy` | Fast array mathematics. |
+
+### Final Setup Suggestion for your Conda Env
+
+To have everything you need in one place, run these commands in your `fss`
+environment:
+
+```bash
+# Core data science and regridding
+conda install -c conda-forge xarray dask netcdf4 xesmf
+
+# Analysis and specialized plots
+pip install scores skill-metrics matplotlib seaborn scipy numpy
+```
+
+**My Workflow Recommendation:**
+1. Use **CDO** or **xESMF** to align everything to the ERA5 grid.
+2. Use **`scores`** to generate the FSS curves (Spatial Scale).
+3. Use **`SkillMetrics`** to create a Taylor Diagram
+(Amplitude/Correlation).
+4. Use **`seaborn`** to plot the PDFs of the precipitation
+(Intensity/Extreme events).
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNjExNDQ0NV19
+eyJoaXN0b3J5IjpbLTg2MzEyMDY3MCwyMTM2MTE0NDQ1XX0=
 -->
