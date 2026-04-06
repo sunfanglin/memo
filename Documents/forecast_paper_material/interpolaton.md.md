@@ -7,6 +7,109 @@ of water (mass) when moving from a fine grid to a coarse grid.
 **Warning on Installation:** `xESMF` cannot be installed via `pip` reliably
 because it depends on the ESMF C-library. You **must** use `conda`.
 
+To "get the grid" from ERA5, you essentially need to extract the
+**coordinate arrays** (the 1D lists of Latitude and Longitude values).
+
+Depending on the tool you are using (`xarray.interp` or `xESMF`), there are
+two ways to do this: by extracting the **arrays** or by using a **template
+dataset**.
+
+### Method 1: Using ERA5 as a "Template" (Recommended for xESMF)
+`xESMF` is designed to take an entire dataset as the target. You don't need
+to manually extract the numbers; you just pass the ERA5 object.
+
+```python
+import xarray as xr
+
+# Load your ERA5 file
+ds_era5 = xr.open_dataset('era5_raw.nc')
+
+# xESMF will automatically look at ds_era5.lat and ds_era5.lon
+# to build the target grid.
+# You simply pass the object into the regridder:
+# regridder = xe.Regridder(ds_src, ds_era5, method='bilinear')
+```
+
+---
+
+### Method 2: Extracting Raw Coordinate Arrays (For `xarray.interp`)
+If you are using the simpler `xarray.interp()` method, you need the actual
+coordinate values.
+
+```python
+import xarray as xr
+
+ds_era5 = xr.open_dataset('era5_raw.nc')
+
+# 1. Extract the coordinate arrays
+# Note: ERA5 files often use 'latitude' and 'longitude' (full names)
+lat_grid = ds_era5.latitude.values
+lon_grid = ds_era5.longitude.values
+
+print(f"Latitude range: {lat_grid.min()} to {lat_grid.max()}")
+print(f"Longitude range: {lon_grid.min()} to {lon_grid.max()}")
+
+# Now you can use these arrays to interpolate another dataset (e.g., MSWEP)
+# ds_mswep_aligned = ds_mswep.interp(lat=lat_grid, lon=lon_grid)
+```
+
+---
+
+### Critical Step: The "ERA5 Grid Trap" (Longitude)
+If you just extract the grid and start interpolating, you will likely get a
+file full of **NaNs**. This is because:
+*   **ERA5** uses a $0^\circ$ to $360^\circ$ scale.
+*   **MSWEP/HRES** usually use a $-180^\circ$ to $180^\circ$ scale.
+
+**You must align the longitude conventions before the interpolation
+happens.**
+
+Here is the professional way to "Get the Grid" from ERA5 while fixing the
+longitude issue:
+
+```python
+import xarray as xr
+
+def get_era5_grid(filepath):
+    ds = xr.open_dataset(filepath)
+
+    # 1. Standardize names to 'lat' and 'lon' for convenience
+    if 'latitude' in ds.coords:
+        ds = ds.rename({'latitude': 'lat', 'longitude': 'lon'})
+
+    # 2. FIX LONGITUDE: Convert 0..360 -> -180..180
+    # This shifts the coordinates so they match MSWEP/HRES
+    ds = ds.assign_coords(lon=(((ds.lon + 180) % 360) - 180)).sortby('lon')
+
+    return ds
+
+# Use it like this:
+ds_era5_template = get_era5_grid('era5_raw.nc')
+
+# Now you have a clean grid to use for xESMF or interp
+# Target Lat: ds_era5_template.lat
+# Target Lon: ds_era5_template.lon
+```
+
+---
+
+### Summary: Which one should you use?
+
+| If you are using... | Use this approach | Why? |
+| :--- | :--- | :--- |
+| **`xESMF`** | **Template Dataset** | `xESMF` reads the metadata
+(dimensions) directly from the dataset object. |
+| **`xarray.interp`** | **Coordinate Arrays** | `.interp()` requires
+explicit lists of values to map the source data onto. |
+| **`CDO` (Linux)** | **Grid File** | You save the ERA5 grid to a text
+file: `cdo griddes era5.nc > era5_grid.txt`. |
+
+**Final Tip:** Always check the shape of your grids after extracting. Use
+`print(ds_era5_template.dims)` to ensure you know exactly how many pixels
+you are interpolating to (e.g., `lat: 72, lon: 144`).
+
+
+
 ### Phase 1: Installation
 Run this inside your `fss` environment:
 ```bash
@@ -147,5 +250,5 @@ the three aligned products.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDUwMjMwNjJdfQ==
+eyJoaXN0b3J5IjpbLTUzOTM0MzM4OCwtMTYwNTAyMzA2Ml19
 -->
