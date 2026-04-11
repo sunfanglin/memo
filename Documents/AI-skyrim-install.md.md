@@ -64,7 +64,11 @@ cp ./modified/casting.py ~/miniforge3/envs/skyrim3/lib/python3.10/site-packages/
 cp ./modified/common.py ~/miniforge3/envs/skyrim3/lib/python3.10/site-packages/skyrim/common.py
 ```
 > Written with [StackEdit](https://stackedit.io/).
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjY0ODM1MzcsLTExOTg4NDQwNjAsMT
-EwMDI2MDMwNiwtNzIzNTY0ODA3LC0xNjA0Njc0MjI0XX0=
+eyJoaXN0b3J5IjpbMTEwODI0MjA0MSwtMTM2NjQ4MzUzNywtMT
+E5ODg0NDA2MCwxMTAwMjYwMzA2LC03MjM1NjQ4MDcsLTE2MDQ2
+NzQyMjRdfQ==
 -->
