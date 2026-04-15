@@ -4,7 +4,7 @@
 ### ERA5 data
 then you need to gapfill first using ERA data (you made it and in `/data/US-ARc_sample_input/era5_csv/`)  before you can run the whole pipeline. 
 
-### The full process:
+### Full process:
 - Run oneflux first to generate **02_qc_auto** files, which are necessary for downscaling of ERA data. 
 
   `python runoneflux.py all "/data" US-ARc "US-ARc_sample_input" 2005 2006 -l fluxnet_pipeline_US-ARc.log --mcr /usr/local/matlab/v94/ --recint hh --era-fy 2000 --era-ly 2006`
@@ -29,6 +29,6 @@ then you need to gapfill first using ERA data (you made it and in `/data/US-ARc_
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNDkzNDgyLC0xOTgwNTc0NDc2LC0yMT
+eyJoaXN0b3J5IjpbNjI5MzE0MjAxLC0xOTgwNTc0NDc2LC0yMT
 MzMzA0MDE4LC0xODk2MzMyMzYwXX0=
 -->
