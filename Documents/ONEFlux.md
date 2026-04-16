@@ -8,6 +8,9 @@ then you need to gapfill first using ERA data (you made it and in `/data/US-ARc_
 - Run oneflux first to generate **02_qc_auto** files, which are necessary for downscaling of ERA data. 
 
   `python runoneflux.py all "/data" US-ARc "US-ARc_sample_input" 2005 2006 -l fluxnet_pipeline_US-ARc.log --mcr /usr/local/matlab/v94/ --recint hh --era-fy 2000 --era-ly 2006`
+
+  `python runoneflux.py all "" US-ARc "US-ARc_sample_input" 2005 2006 -l fluxnet_pipeline_US-ARc.log --mcr /usr/local/matlab/v94/ --recint hh --era-fy 2000 --era-ly 2006`
+
 - The pipeline will stop cause there are no **06_meteo_era** files yet, but the **02_qc_auto will appear**.
 - Run downscaling, the 06_meteo_era files will be generated.
 
@@ -29,6 +32,6 @@ then you need to gapfill first using ERA data (you made it and in `/data/US-ARc_
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI5MzE0MjAxLC0xOTgwNTc0NDc2LC0yMT
-MzMzA0MDE4LC0xODk2MzMyMzYwXX0=
+eyJoaXN0b3J5IjpbLTQ3MDc5NTU5MSw2MjkzMTQyMDEsLTE5OD
+A1NzQ0NzYsLTIxMzMzMDQwMTgsLTE4OTYzMzIzNjBdfQ==
 -->
