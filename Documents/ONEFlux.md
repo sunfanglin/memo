@@ -15,6 +15,7 @@ then you need to gapfill first using ERA data (you made it and in `/data/US-ARc_
 - Run downscaling, the 06_meteo_era files will be generated.
 
   `python -m oneflux.downscaling.rundownscaling /data/US-ARc_sample_input/era5_csv /data US-ARc_sample_input`
+  `python -m oneflux.downscaling.rundownscaling/workspace/gonghe/CN-GHe_input/06_meteo_era /workspace/gonghe CN-GHe_input`
   
   Note, there are at least 3 folders to be given, they are (1) the era5 timeseries, (2) the data folder containing all sites folders, and (3) the site folder, where all pipeline outputs will be within. 
 - Run oneflux pipeling again.
@@ -32,6 +33,7 @@ then you need to gapfill first using ERA data (you made it and in `/data/US-ARc_
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3ODA3OTU0Niw2MjkzMTQyMDEsLTE5OD
-A1NzQ0NzYsLTIxMzMzMDQwMTgsLTE4OTYzMzIzNjBdfQ==
+eyJoaXN0b3J5IjpbLTk2MzI5Njc5NiwxMjc4MDc5NTQ2LDYyOT
+MxNDIwMSwtMTk4MDU3NDQ3NiwtMjEzMzMwNDAxOCwtMTg5NjMz
+MjM2MF19
 -->
