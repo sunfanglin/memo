@@ -9,17 +9,19 @@ then you need to gapfill first using ERA data (you made it and in `/data/US-ARc_
 ```bash
 $ python runoneflux.py all "/data" US-ARc "US-ARc_sample_input" 2005 2006 -l fluxnet_pipeline_US-ARc.log --mcr /usr/local/matlab/v94/ --recint hh --era-fy 2000 --era-ly 2006
 ```
+- In Gonghe case:
 ```bash
 $ python runoneflux.py all "/" US-ARc "CN-GHe_input" 2024 2025 -l fluxnet_pipeline_CN-GHe.log --mcr /usr/local/matlab/v94/ --recint hh --era-fy 2015 --era-ly 2025
 ```
 
 - The pipeline will stop cause there are no **06_meteo_era** files yet, but the **02_qc_auto will appear**.
 - put downloaded era5 land data to hourly, save with name pattern like: `CN-GHe__ERA5__reanalysis-era5-single-levels__2015__lon+0__lat+0.csv`
-- Run downscaling with given folder of downloaded era5 files, the 06_meteo_era files will be generated, containing half-hourly .
+- Run downscaling with given folder of downloaded era5 files, the 06_meteo_era files will be generated, containing half-hourly era5 records and stastistic files.
 
  ```bash
  $ python -m oneflux.downscaling.rundownscaling /data/US-ARc_sample_input/era5_csv_files_path /data US-ARc_sample_input
   ```
+  - Gonghe case:
 ```bash
 $ python -m oneflux.downscaling.rundownscaling     /workspace/gonghe/CN-GHe_input/06_meteo_era/reanalysis_input     /workspace/gonghe     CN-GHe_input     --era-fy 2015 --era-ly 2025
 ```
@@ -39,7 +41,7 @@ $ python -m oneflux.downscaling.rundownscaling     /workspace/gonghe/CN-GHe_inpu
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjQ1ODQyNDUsLTk2MzI5Njc5NiwxMj
-c4MDc5NTQ2LDYyOTMxNDIwMSwtMTk4MDU3NDQ3NiwtMjEzMzMw
-NDAxOCwtMTg5NjMzMjM2MF19
+eyJoaXN0b3J5IjpbMTMyNTk0OTE3MCwtOTYzMjk2Nzk2LDEyNz
+gwNzk1NDYsNjI5MzE0MjAxLC0xOTgwNTc0NDc2LC0yMTMzMzA0
+MDE4LC0xODk2MzMyMzYwXX0=
 -->
