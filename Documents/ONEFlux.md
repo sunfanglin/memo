@@ -14,9 +14,10 @@ then you need to gapfill first using ERA data (you made it and in `/data/US-ARc_
 - The pipeline will stop cause there are no **06_meteo_era** files yet, but the **02_qc_auto will appear**.
 - Run downscaling, the 06_meteo_era files will be generated.
 
-  `python -m oneflux.downscaling.rundownscaling /data/US-ARc_sample_input/era5_csv_files_path /data US-ARc_sample_input`
-
-```bash
+  ```bash
+  python -m oneflux.downscaling.rundownscaling /data/US-ARc_sample_input/era5_csv_files_path /data US-ARc_sample_input
+  ```
+  bash
 python -m oneflux.downscaling.rundownscaling     /workspace/gonghe/CN-GHe_input/06_meteo_era/reanalysis_input     /workspace/gonghe     CN-GHe_input     --era-fy 2015 --era-ly 2025
 ```
   Note, there are at least 3 folders to be given, they are (1) the era5 timeseries, (2) the data folder containing all sites folders, and (3) the site folder, where all pipeline outputs will be within. 
@@ -35,7 +36,7 @@ python -m oneflux.downscaling.rundownscaling     /workspace/gonghe/CN-GHe_input/
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NjM0ODQ0NCwtOTYzMjk2Nzk2LDEyNz
+eyJoaXN0b3J5IjpbLTg4NDQwNjg2NiwtOTYzMjk2Nzk2LDEyNz
 gwNzk1NDYsNjI5MzE0MjAxLC0xOTgwNTc0NDc2LC0yMTMzMzA0
 MDE4LC0xODk2MzMyMzYwXX0=
 -->
