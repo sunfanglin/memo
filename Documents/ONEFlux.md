@@ -14,6 +14,7 @@ $ python runoneflux.py all "/" US-ARc "CN-GHe_input" 2024 2025 -l fluxnet_pipeli
 ```
 
 - The pipeline will stop cause there are no **06_meteo_era** files yet, but the **02_qc_auto will appear**.
+- put downloaded era5 land data to hourly, save with name pattern like: `CN-GHe__ERA5__reanalysis-era5-single-levels__2015__lon+0__lat+0.csv`
 - Run downscaling, the 06_meteo_era files will be generated.
 
  ```bash
@@ -38,7 +39,7 @@ $ python -m oneflux.downscaling.rundownscaling     /workspace/gonghe/CN-GHe_inpu
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNDI4NDE3MCwtOTYzMjk2Nzk2LDEyNz
-gwNzk1NDYsNjI5MzE0MjAxLC0xOTgwNTc0NDc2LC0yMTMzMzA0
-MDE4LC0xODk2MzMyMzYwXX0=
+eyJoaXN0b3J5IjpbLTEyMTc5ODA1MDMsLTk2MzI5Njc5NiwxMj
+c4MDc5NTQ2LDYyOTMxNDIwMSwtMTk4MDU3NDQ3NiwtMjEzMzMw
+NDAxOCwtMTg5NjMzMjM2MF19
 -->
