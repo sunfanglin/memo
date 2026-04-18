@@ -11,7 +11,7 @@ $ python runoneflux.py all "/data" US-ARc "US-ARc_sample_input" 2005 2006 -l flu
 ```
 - In Gonghe case:
 ```bash
-$ python runoneflux.py all "/" US-ARc "CN-GHe_input" 2024 2025 -l fluxnet_pipeline_CN-GHe.log --mcr /usr/local/matlab/v94/ --recint hh --era-fy 2015 --era-ly 2025
+$ python runoneflux.py all "/workspace/gonghe" CN-GHe "CN-GHe_input" 2024 2025 -l fluxnet_pipeline_CN-GHe.log --mcr /usr/local/matlab/v94/ --recint hh --era-fy 2015 --era-ly 2025
 ```
 
 - The pipeline will stop cause there are no **06_meteo_era** files yet, but the **02_qc_auto will appear**.
@@ -41,7 +41,7 @@ $ python -m oneflux.downscaling.rundownscaling     /workspace/gonghe/CN-GHe_inpu
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNTk0OTE3MCwtOTYzMjk2Nzk2LDEyNz
-gwNzk1NDYsNjI5MzE0MjAxLC0xOTgwNTc0NDc2LC0yMTMzMzA0
-MDE4LC0xODk2MzMyMzYwXX0=
+eyJoaXN0b3J5IjpbLTM1ODA2NjAzNywxMzI1OTQ5MTcwLC05Nj
+MyOTY3OTYsMTI3ODA3OTU0Niw2MjkzMTQyMDEsLTE5ODA1NzQ0
+NzYsLTIxMzMzMDQwMTgsLTE4OTYzMzIzNjBdfQ==
 -->
