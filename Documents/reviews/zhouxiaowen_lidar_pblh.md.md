@@ -31,12 +31,12 @@
 
 ## Revision
 ### Figures:
-- fig.1c 换一张亚洲在中心的地图，a
+- fig.1c 换一张亚洲在中心的地图，1a 中的矩形建议去掉，因为和 1b 并不对应， 1b 里面的文字颜色加强对比。
 - S6 去掉 QOMS 文字；只用一个 colorbar
-- 检查附件里的 fig.1, 8, 10，我这边看到的显示不完整
+- 检查附件里的 fig.1, 8, 10，这边看到的显示不完整
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMjI5OTY3MiwtMTY1ODU3NDA4NCwtND
+eyJoaXN0b3J5IjpbMTM3NjkzODE5OSwtMTY1ODU3NDA4NCwtND
 UyNzE1MzM5LDExMjg2NzA3OTUsLTQwMzUwMTM3NCwxMDUwMjY1
 MzE1LDQ2MjQwOTA1MiwyMDcyMzM2OTIyLC0xNDY1MTQ3MjI5LD
 E4NDI5NTM3MDIsNTk3ODIzNDk2LDYwMDI1MzUzNCwtMjA4NTcz
