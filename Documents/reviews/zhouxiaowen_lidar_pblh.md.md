@@ -33,17 +33,17 @@
 ### Figures:
 - fig.1 可以不放 data
 - fig.2 
-- fig. 10 换线条颜色，
-- fig.1, 8, 10 显示不完整
+- fig. 10 线条颜色表示季节，换一下颜色使与fig.9（表示数据来源）有区分
+- 检查 fig.1, 8, 10，我这边显示不完整
 
 - 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1ODQ1MTQxMywtNDAzNTAxMzc0LDEwNT
-AyNjUzMTUsNDYyNDA5MDUyLDIwNzIzMzY5MjIsLTE0NjUxNDcy
-MjksMTg0Mjk1MzcwMiw1OTc4MjM0OTYsNjAwMjUzNTM0LC0yMD
-g1NzMyNDMwLC0xOTM0NDYyNDk1LDcxNjEzNjkyOSwtMTk2MDk2
-MTkxLC05NTgxNTg4MTksLTMzMTY2NTk4MSwxNDAyODIwMTYzLD
-E2MDU1NDU3MDIsLTc3MjM4MzQ0LDc1OTQ3MjUwNiwtNDgyOTg5
-NDI1XX0=
+eyJoaXN0b3J5IjpbNTUxMDQ5NzQyLC00MDM1MDEzNzQsMTA1MD
+I2NTMxNSw0NjI0MDkwNTIsMjA3MjMzNjkyMiwtMTQ2NTE0NzIy
+OSwxODQyOTUzNzAyLDU5NzgyMzQ5Niw2MDAyNTM1MzQsLTIwOD
+U3MzI0MzAsLTE5MzQ0NjI0OTUsNzE2MTM2OTI5LC0xOTYwOTYx
+OTEsLTk1ODE1ODgxOSwtMzMxNjY1OTgxLDE0MDI4MjAxNjMsMT
+YwNTU0NTcwMiwtNzcyMzgzNDQsNzU5NDcyNTA2LC00ODI5ODk0
+MjVdfQ==
 -->
