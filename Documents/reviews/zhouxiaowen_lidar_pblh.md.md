@@ -34,12 +34,12 @@
 - fig.1 可以不放 data
 - fig.2 
 - fig. 10 线条颜色表示季节，换一下颜色使与fig.9（表示数据来源）有区分
-- 检查 fig.1, 8, 10，我这边显示不完整
+- 检查 fig.1, 8, 10，我这边看到的显示不完整
 
 - 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUxMDQ5NzQyLC00MDM1MDEzNzQsMTA1MD
+eyJoaXN0b3J5IjpbNTYwNzE3NTAxLC00MDM1MDEzNzQsMTA1MD
 I2NTMxNSw0NjI0MDkwNTIsMjA3MjMzNjkyMiwtMTQ2NTE0NzIy
 OSwxODQyOTUzNzAyLDU5NzgyMzQ5Niw2MDAyNTM1MzQsLTIwOD
 U3MzI0MzAsLTE5MzQ0NjI0OTUsNzE2MTM2OTI5LC0xOTYwOTYx
