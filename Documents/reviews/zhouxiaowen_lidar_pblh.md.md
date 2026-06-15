@@ -31,18 +31,15 @@
 
 ## Revision
 ### Figures:
-- fig.1 可以不放 data
-- fig.2 
-- fig. 10 线条颜色表示季节，换一下颜色使与fig.9（表示数据来源）有区分
 - S6 去掉 QOMS 文字；只用一个 colorbar
--  检查附件里的 fig.1, 8, 10，我这边看到的显示不完整
+- 检查附件里的 fig.1, 8, 10，我这边看到的显示不完整
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MjcxNTMzOSwxMTI4NjcwNzk1LC00MD
-M1MDEzNzQsMTA1MDI2NTMxNSw0NjI0MDkwNTIsMjA3MjMzNjky
-MiwtMTQ2NTE0NzIyOSwxODQyOTUzNzAyLDU5NzgyMzQ5Niw2MD
-AyNTM1MzQsLTIwODU3MzI0MzAsLTE5MzQ0NjI0OTUsNzE2MTM2
-OTI5LC0xOTYwOTYxOTEsLTk1ODE1ODgxOSwtMzMxNjY1OTgxLD
-E0MDI4MjAxNjMsMTYwNTU0NTcwMiwtNzcyMzgzNDQsNzU5NDcy
-NTA2XX0=
+eyJoaXN0b3J5IjpbLTE2NTg1NzQwODQsLTQ1MjcxNTMzOSwxMT
+I4NjcwNzk1LC00MDM1MDEzNzQsMTA1MDI2NTMxNSw0NjI0MDkw
+NTIsMjA3MjMzNjkyMiwtMTQ2NTE0NzIyOSwxODQyOTUzNzAyLD
+U5NzgyMzQ5Niw2MDAyNTM1MzQsLTIwODU3MzI0MzAsLTE5MzQ0
+NjI0OTUsNzE2MTM2OTI5LC0xOTYwOTYxOTEsLTk1ODE1ODgxOS
+wtMzMxNjY1OTgxLDE0MDI4MjAxNjMsMTYwNTU0NTcwMiwtNzcy
+MzgzNDRdfQ==
 -->
