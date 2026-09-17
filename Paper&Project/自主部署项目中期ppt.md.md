@@ -8,7 +8,9 @@
 #### 背景
 青藏高原有着中低纬度地区面积最大的多年冻土分布，其地面承载力、地下冰和热状态随地形变化迅速，而CMIP产品提供的未来1° 日平均气温无法分辨河谷与山脊、阳坡与阴坡，难以支撑气候暖湿化背景下的青藏高原大型基础设施建设中涉及的路基、塔基和能源台址评估。
 本项目的关键工作即是基于机器学习方法和真实地形来制作未来情景下的高分辨率地表气温数据，数据空间分辨率为4-10km，时间分辨率为1-3小时。
+#### 实施
+- [ ] 测试，直接采用CONUS预训练模型、把约1° 的气候模式资料降尺度到名义4 km 的方案
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTkxNjkyNzFdfQ==
+eyJoaXN0b3J5IjpbLTY0MTAzNDgxMSwtMTU5OTE2OTI3MV19
 -->
