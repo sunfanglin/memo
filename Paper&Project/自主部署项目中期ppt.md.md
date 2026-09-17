@@ -10,9 +10,10 @@
 本项目的关键工作即是基于机器学习方法和真实地形来制作未来情景下的高分辨率地表气温数据，数据空间分辨率为4-10km，时间分辨率为1-3小时。
 #### 实施
 - [x] **模型测试**:直接采用CONUS预训练模型、把约1° 的CMIP气候模式资料降尺度到名义4 km 的方案;
-- [x] **本地化训练**，使用高原区域 HAR v2 降尺度数据作为训练数据，制作本地化模型权重，产品分辨率设定为10 km，以减少训练时间；
+- [x] **本地化训练调试**，使用高原区域 HAR v2 降尺度数据作为训练数据，制作本地化模型权重，产品分辨率设定为10 km（减少训练时间）；
+- [x] 基于已试验的方法，使用1/30度的CMFD数据产品来训练模型，进而制作4km分辨率的气温产品
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODg5MDk5MDksLTE1OTkxNjkyNzFdfQ
+eyJoaXN0b3J5IjpbLTE5MzI1MDcxMTksLTE1OTkxNjkyNzFdfQ
 ==
 -->
