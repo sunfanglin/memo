@@ -12,7 +12,11 @@
 - [x] **模型测试**,直接采用CONUS预训练模型、把约1° 的CMIP气候模式资料降尺度到名义4 km 的方案;
 - [x] **本地化训练调试**，使用高原区域 HARv2 降尺度数据作为训练数据，制作本地化模型权重，产品分辨率设定为10 km（减少训练时间）；
 - [ ] **本地化应用**，基于已试验通过的方法，使用1/30度的 CMFD 数据产品来训练模型，进而制作 4km 分辨率气温产品
+
+## 主要进展
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNzM1ODQ3MiwtMTU5OTE2OTI3MV19
+eyJoaXN0b3J5IjpbLTE4ODk1NjI3NzgsLTgyNzM1ODQ3MiwtMT
+U5OTE2OTI3MV19
 -->
